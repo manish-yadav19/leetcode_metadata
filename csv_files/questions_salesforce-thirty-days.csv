@@ -1,0 +1,4 @@
+favoriteSlug,question_number,title,difficulty,ac_rate,topics,paidOnly,status,titleSlug
+salesforce-thirty-days,443,String Compression,Medium,0.5928456456115381,String;Two Pointers,False,TO_DO,string-compression
+salesforce-thirty-days,1522,Diameter of N-Ary Tree,Medium,0.7540303549693221,Depth-First Search;Tree,True,TO_DO,diameter-of-n-ary-tree
+salesforce-thirty-days,2380,Time Needed to Rearrange a Binary String,Medium,0.5229781029238002,Dynamic Programming;Simulation;String,False,TO_DO,time-needed-to-rearrange-a-binary-string

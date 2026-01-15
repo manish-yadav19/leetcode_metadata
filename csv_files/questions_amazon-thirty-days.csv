@@ -1,0 +1,95 @@
+favoriteSlug,question_number,title,difficulty,ac_rate,topics,paidOnly,status,titleSlug
+amazon-thirty-days,1,Two Sum,Easy,0.568056531235754,Array;Hash Table,False,SOLVED,two-sum
+amazon-thirty-days,2,Add Two Numbers,Medium,0.4761617396504773,Linked List;Math;Recursion,False,TO_DO,add-two-numbers
+amazon-thirty-days,3,Longest Substring Without Repeating Characters,Medium,0.38177849364599,Hash Table;Sliding Window;String,False,TO_DO,longest-substring-without-repeating-characters
+amazon-thirty-days,5,Longest Palindromic Substring,Medium,0.37021008227524965,Dynamic Programming;String;Two Pointers,False,TO_DO,longest-palindromic-substring
+amazon-thirty-days,7,Reverse Integer,Medium,0.3127606321855442,Math,False,TO_DO,reverse-integer
+amazon-thirty-days,9,Palindrome Number,Easy,0.600671729163301,Math,False,TO_DO,palindrome-number
+amazon-thirty-days,11,Container With Most Water,Medium,0.5923443452298143,Array;Greedy;Two Pointers,False,TO_DO,container-with-most-water
+amazon-thirty-days,14,Longest Common Prefix,Easy,0.4679347076041711,Array;String;Trie,False,TO_DO,longest-common-prefix
+amazon-thirty-days,15,3Sum,Medium,0.38281285147119076,Array;Sorting;Two Pointers,False,TO_DO,3sum
+amazon-thirty-days,17,Letter Combinations of a Phone Number,Medium,0.6518372646722103,Backtracking;Hash Table;String,False,TO_DO,letter-combinations-of-a-phone-number
+amazon-thirty-days,18,4Sum,Medium,0.39635013960308557,Array;Sorting;Two Pointers,False,TO_DO,4sum
+amazon-thirty-days,22,Generate Parentheses,Medium,0.7806139445835568,Backtracking;Dynamic Programming;String,False,TO_DO,generate-parentheses
+amazon-thirty-days,27,Remove Element,Easy,0.6109493246047186,Array;Two Pointers,False,TO_DO,remove-element
+amazon-thirty-days,31,Next Permutation,Medium,0.4443978302001569,Array;Two Pointers,False,TO_DO,next-permutation
+amazon-thirty-days,33,Search in Rotated Sorted Array,Medium,0.4386655038845181,Array;Binary Search,False,TO_DO,search-in-rotated-sorted-array
+amazon-thirty-days,35,Search Insert Position,Easy,0.5034911075777067,Array;Binary Search,False,TO_DO,search-insert-position
+amazon-thirty-days,36,Valid Sudoku,Medium,0.6394398965191345,Array;Hash Table;Matrix,False,TO_DO,valid-sudoku
+amazon-thirty-days,42,Trapping Rain Water,Hard,0.6647107168861689,Array;Dynamic Programming;Monotonic Stack;Stack;Two Pointers,False,TO_DO,trapping-rain-water
+amazon-thirty-days,45,Jump Game II,Medium,0.422919422892777,Array;Dynamic Programming;Greedy,False,TO_DO,jump-game-ii
+amazon-thirty-days,48,Rotate Image,Medium,0.7909258747417024,Array;Math;Matrix,False,TO_DO,rotate-image
+amazon-thirty-days,49,Group Anagrams,Medium,0.719405075423735,Array;Hash Table;Sorting;String,False,TO_DO,group-anagrams
+amazon-thirty-days,51,N-Queens,Hard,0.7462008590412246,Array;Backtracking,False,TO_DO,n-queens
+amazon-thirty-days,53,Maximum Subarray,Medium,0.5279774128497923,Array;Divide and Conquer;Dynamic Programming,False,SOLVED,maximum-subarray
+amazon-thirty-days,56,Merge Intervals,Medium,0.50805233983285,Array;Sorting,False,TO_DO,merge-intervals
+amazon-thirty-days,58,Length of Last Word,Easy,0.5792404708673135,String,False,TO_DO,length-of-last-word
+amazon-thirty-days,66,Plus One,Easy,0.4925173240177372,Array;Math,False,TO_DO,plus-one
+amazon-thirty-days,75,Sort Colors,Medium,0.6884746409299011,Array;Sorting;Two Pointers,False,TO_DO,sort-colors
+amazon-thirty-days,98,Validate Binary Search Tree,Medium,0.3516836976214796,Binary Search Tree;Binary Tree;Depth-First Search;Tree,False,TO_DO,validate-binary-search-tree
+amazon-thirty-days,110,Balanced Binary Tree,Easy,0.5679356305840318,Binary Tree;Depth-First Search;Tree,False,TO_DO,balanced-binary-tree
+amazon-thirty-days,121,Best Time to Buy and Sell Stock,Easy,0.5617529645282888,Array;Dynamic Programming,False,TO_DO,best-time-to-buy-and-sell-stock
+amazon-thirty-days,124,Binary Tree Maximum Path Sum,Hard,0.41880416621485644,Binary Tree;Depth-First Search;Dynamic Programming;Tree,False,TO_DO,binary-tree-maximum-path-sum
+amazon-thirty-days,127,Word Ladder,Hard,0.4455396986726555,Breadth-First Search;Hash Table;String,False,TO_DO,word-ladder
+amazon-thirty-days,128,Longest Consecutive Sequence,Medium,0.46966330370880216,Array;Hash Table;Union Find,False,TO_DO,longest-consecutive-sequence
+amazon-thirty-days,135,Candy,Hard,0.4771175980309485,Array;Greedy,False,TO_DO,candy
+amazon-thirty-days,137,Single Number II,Medium,0.664381492874232,Array;Bit Manipulation,False,TO_DO,single-number-ii
+amazon-thirty-days,139,Word Break,Medium,0.48982822104898943,Array;Dynamic Programming;Hash Table;Memoization;String;Trie,False,TO_DO,word-break
+amazon-thirty-days,141,Linked List Cycle,Easy,0.5364024041882622,Hash Table;Linked List;Two Pointers,False,TO_DO,linked-list-cycle
+amazon-thirty-days,146,LRU Cache,Medium,0.46558068842474865,Design;Doubly-Linked List;Hash Table;Linked List,False,TO_DO,lru-cache
+amazon-thirty-days,152,Maximum Product Subarray,Medium,0.357917810939316,Array;Dynamic Programming,False,TO_DO,maximum-product-subarray
+amazon-thirty-days,155,Min Stack,Medium,0.5749025520743547,Design;Stack,False,TO_DO,min-stack
+amazon-thirty-days,162,Find Peak Element,Medium,0.467464722714843,Array;Binary Search,False,TO_DO,find-peak-element
+amazon-thirty-days,165,Compare Version Numbers,Medium,0.4593726066700661,String;Two Pointers,False,TO_DO,compare-version-numbers
+amazon-thirty-days,169,Majority Element,Easy,0.6602996214131726,Array;Counting;Divide and Conquer;Hash Table;Sorting,False,TO_DO,majority-element
+amazon-thirty-days,200,Number of Islands,Medium,0.635385230304513,Array;Breadth-First Search;Depth-First Search;Matrix;Union Find,False,TO_DO,number-of-islands
+amazon-thirty-days,202,Happy Number,Easy,0.5903822897256865,Hash Table;Math;Two Pointers,False,TO_DO,happy-number
+amazon-thirty-days,203,Remove Linked List Elements,Easy,0.5350953235213477,Linked List;Recursion,False,TO_DO,remove-linked-list-elements
+amazon-thirty-days,207,Course Schedule,Medium,0.5053542594670845,Breadth-First Search;Depth-First Search;Graph;Topological Sort,False,TO_DO,course-schedule
+amazon-thirty-days,217,Contains Duplicate,Easy,0.6391269078945955,Array;Hash Table;Sorting,False,TO_DO,contains-duplicate
+amazon-thirty-days,234,Palindrome Linked List,Easy,0.5711617214030706,Linked List;Recursion;Stack;Two Pointers,False,TO_DO,palindrome-linked-list
+amazon-thirty-days,236,Lowest Common Ancestor of a Binary Tree,Medium,0.6840966184007141,Binary Tree;Depth-First Search;Tree,False,TO_DO,lowest-common-ancestor-of-a-binary-tree
+amazon-thirty-days,238,Product of Array Except Self,Medium,0.6840879451051396,Array;Prefix Sum,False,TO_DO,product-of-array-except-self
+amazon-thirty-days,239,Sliding Window Maximum,Hard,0.48272805000902475,Array;Heap (Priority Queue);Monotonic Queue;Queue;Sliding Window,False,TO_DO,sliding-window-maximum
+amazon-thirty-days,242,Valid Anagram,Easy,0.6756558566953315,Hash Table;Sorting;String,False,SOLVED,valid-anagram
+amazon-thirty-days,263,Ugly Number,Easy,0.4296456881622129,Math,False,TO_DO,ugly-number
+amazon-thirty-days,328,Odd Even Linked List,Medium,0.6221582227079601,Linked List,False,TO_DO,odd-even-linked-list
+amazon-thirty-days,371,Sum of Two Integers,Medium,0.5477689298409357,Bit Manipulation;Math,False,TO_DO,sum-of-two-integers
+amazon-thirty-days,435,Non-overlapping Intervals,Medium,0.5647973517249381,Array;Dynamic Programming;Greedy;Sorting,False,TO_DO,non-overlapping-intervals
+amazon-thirty-days,494,Target Sum,Medium,0.5164464994395851,Array;Backtracking;Dynamic Programming,False,TO_DO,target-sum
+amazon-thirty-days,504,Base 7,Easy,0.5348286597427601,Math;String,False,TO_DO,base-7
+amazon-thirty-days,560,Subarray Sum Equals K,Medium,0.4651201596097784,Array;Hash Table;Prefix Sum,False,TO_DO,subarray-sum-equals-k
+amazon-thirty-days,577,Employee Bonus,Easy,0.7700509438952048,Database,False,SOLVED,employee-bonus
+amazon-thirty-days,636,Exclusive Time of Functions,Medium,0.6592406307830754,Array;Stack,False,TO_DO,exclusive-time-of-functions
+amazon-thirty-days,645,Set Mismatch,Easy,0.4467556151748298,Array;Bit Manipulation;Hash Table;Sorting,False,TO_DO,set-mismatch
+amazon-thirty-days,658,Find K Closest Elements,Medium,0.4929749700456219,Array;Binary Search;Heap (Priority Queue);Sliding Window;Sorting;Two Pointers,False,TO_DO,find-k-closest-elements
+amazon-thirty-days,733,Flood Fill,Easy,0.6762661441643258,Array;Breadth-First Search;Depth-First Search;Matrix,False,TO_DO,flood-fill
+amazon-thirty-days,735,Asteroid Collision,Medium,0.4669662698166379,Array;Simulation;Stack,False,TO_DO,asteroid-collision
+amazon-thirty-days,767,Reorganize String,Medium,0.5672562181267757,Counting;Greedy;Hash Table;Heap (Priority Queue);Sorting;String,False,TO_DO,reorganize-string
+amazon-thirty-days,840,Magic Squares In Grid,Medium,0.5512687041437824,Array;Hash Table;Math;Matrix,False,TO_DO,magic-squares-in-grid
+amazon-thirty-days,853,Car Fleet,Medium,0.544843149602873,Array;Monotonic Stack;Sorting;Stack,False,TO_DO,car-fleet
+amazon-thirty-days,875,Koko Eating Bananas,Medium,0.4949577782573378,Array;Binary Search,False,TO_DO,koko-eating-bananas
+amazon-thirty-days,904,Fruit Into Baskets,Medium,0.5015474439737483,Array;Hash Table;Sliding Window,False,TO_DO,fruit-into-baskets
+amazon-thirty-days,921,Minimum Add to Make Parentheses Valid,Medium,0.744956093899022,Greedy;Stack;String,False,TO_DO,minimum-add-to-make-parentheses-valid
+amazon-thirty-days,955,Delete Columns to Make Sorted II,Medium,0.49653978253316405,Array;Greedy;String,False,TO_DO,delete-columns-to-make-sorted-ii
+amazon-thirty-days,960,Delete Columns to Make Sorted III,Hard,0.7266676079633702,Array;Dynamic Programming;String,False,TO_DO,delete-columns-to-make-sorted-iii
+amazon-thirty-days,961,N-Repeated Element in Size 2N Array,Easy,0.7979916178947871,Array;Hash Table,False,TO_DO,n-repeated-element-in-size-2n-array
+amazon-thirty-days,994,Rotting Oranges,Medium,0.5786014386228289,Array;Breadth-First Search;Matrix,False,TO_DO,rotting-oranges
+amazon-thirty-days,1004,Max Consecutive Ones III,Medium,0.6703041002217343,Array;Binary Search;Prefix Sum;Sliding Window,False,TO_DO,max-consecutive-ones-iii
+amazon-thirty-days,1021,Remove Outermost Parentheses,Easy,0.8666151340466132,Stack;String,False,TO_DO,remove-outermost-parentheses
+amazon-thirty-days,1161,Maximum Level Sum of a Binary Tree,Medium,0.699634580125148,Binary Tree;Breadth-First Search;Depth-First Search;Tree,False,TO_DO,maximum-level-sum-of-a-binary-tree
+amazon-thirty-days,1339,Maximum Product of Splitted Binary Tree,Medium,0.55499385807427,Binary Tree;Depth-First Search;Tree,False,TO_DO,maximum-product-of-splitted-binary-tree
+amazon-thirty-days,1458,Max Dot Product of Two Subsequences,Hard,0.6930589874811163,Array;Dynamic Programming,False,TO_DO,max-dot-product-of-two-subsequences
+amazon-thirty-days,1648,Sell Diminishing-Valued Colored Balls,Medium,0.2996843877121616,Array;Binary Search;Greedy;Heap (Priority Queue);Math;Sorting,False,TO_DO,sell-diminishing-valued-colored-balls
+amazon-thirty-days,1907,Count Salary Categories,Medium,0.6381852166682493,Database,False,SOLVED,count-salary-categories
+amazon-thirty-days,1929,Concatenation of Array,Easy,0.9065518683527245,Array;Simulation,False,TO_DO,concatenation-of-array
+amazon-thirty-days,1975,Maximum Matrix Sum,Medium,0.6763002877383295,Array;Greedy;Matrix,False,TO_DO,maximum-matrix-sum
+amazon-thirty-days,2054,Two Best Non-Overlapping Events,Medium,0.6408255670828205,Array;Binary Search;Dynamic Programming;Heap (Priority Queue);Sorting,False,TO_DO,two-best-non-overlapping-events
+amazon-thirty-days,2235,Add Two Integers,Easy,0.8784409990291221,Math,False,TO_DO,add-two-integers
+amazon-thirty-days,2333,Minimum Sum of Squared Difference,Medium,0.265662992676286,Array;Binary Search;Greedy;Heap (Priority Queue);Sorting,False,TO_DO,minimum-sum-of-squared-difference
+amazon-thirty-days,2483,Minimum Penalty for a Shop,Medium,0.7119419674318521,Prefix Sum;String,False,TO_DO,minimum-penalty-for-a-shop
+amazon-thirty-days,3075,Maximize Happiness of Selected Children,Medium,0.5867279160717611,Array;Greedy;Sorting,False,TO_DO,maximize-happiness-of-selected-children
+amazon-thirty-days,3483,Unique 3-Digit Even Numbers,Easy,0.6875092072741558,Array;Enumeration;Hash Table;Recursion,False,TO_DO,unique-3-digit-even-numbers
+amazon-thirty-days,3652,Best Time to Buy and Sell Stock using Strategy,Medium,0.5938707849725964,Array;Prefix Sum;Sliding Window,False,TO_DO,best-time-to-buy-and-sell-stock-using-strategy
+amazon-thirty-days,3752,Lexicographically Smallest Negated Permutation that Sums to Target,Medium,0.2975046476918646,Array;Greedy;Math;Sorting;Two Pointers,False,TO_DO,lexicographically-smallest-negated-permutation-that-sums-to-target
+amazon-thirty-days,3785,Minimum Swaps to Avoid Forbidden Values,Hard,0.2939525462962963,Array;Counting;Greedy;Hash Table,False,TO_DO,minimum-swaps-to-avoid-forbidden-values

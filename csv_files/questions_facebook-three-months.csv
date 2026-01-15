@@ -1,0 +1,269 @@
+favoriteSlug,question_number,title,difficulty,ac_rate,topics,paidOnly,status,titleSlug
+facebook-three-months,1,Two Sum,Easy,0.568056198,Array;Hash Table,FALSE,SOLVED,two-sum
+facebook-three-months,2,Add Two Numbers,Medium,0.476161327,Linked List;Math;Recursion,FALSE,TO_DO,add-two-numbers
+facebook-three-months,3,Longest Substring Without Repeating Characters,Medium,0.381778523,Hash Table;Sliding Window;String,FALSE,TO_DO,longest-substring-without-repeating-characters
+facebook-three-months,4,Median of Two Sorted Arrays,Hard,0.455398471,Array;Binary Search;Divide and Conquer,FALSE,TO_DO,median-of-two-sorted-arrays
+facebook-three-months,5,Longest Palindromic Substring,Medium,0.370210172,Dynamic Programming;String;Two Pointers,FALSE,TO_DO,longest-palindromic-substring
+facebook-three-months,6,Zigzag Conversion,Medium,0.531853491,String,FALSE,TO_DO,zigzag-conversion
+facebook-three-months,7,Reverse Integer,Medium,0.312760432,Math,FALSE,TO_DO,reverse-integer
+facebook-three-months,8,String to Integer (atoi),Medium,0.203294046,String,FALSE,TO_DO,string-to-integer-atoi
+facebook-three-months,9,Palindrome Number,Easy,0.600671683,Math,FALSE,TO_DO,palindrome-number
+facebook-three-months,10,Regular Expression Matching,Hard,0.301934783,Dynamic Programming;Recursion;String,FALSE,TO_DO,regular-expression-matching
+facebook-three-months,11,Container With Most Water,Medium,0.592345102,Array;Greedy;Two Pointers,FALSE,TO_DO,container-with-most-water
+facebook-three-months,12,Integer to Roman,Medium,0.701145668,Hash Table;Math;String,FALSE,TO_DO,integer-to-roman
+facebook-three-months,13,Roman to Integer,Easy,0.659956764,Hash Table;Math;String,FALSE,TO_DO,roman-to-integer
+facebook-three-months,14,Longest Common Prefix,Easy,0.467934331,Array;String;Trie,FALSE,TO_DO,longest-common-prefix
+facebook-three-months,15,3Sum,Medium,0.382812919,Array;Sorting;Two Pointers,FALSE,TO_DO,3sum
+facebook-three-months,16,3Sum Closest,Medium,0.477920062,Array;Sorting;Two Pointers,FALSE,TO_DO,3sum-closest
+facebook-three-months,19,Remove Nth Node From End of List,Medium,0.50629833,Linked List;Two Pointers,FALSE,TO_DO,remove-nth-node-from-end-of-list
+facebook-three-months,20,Valid Parentheses,Easy,0.434363321,Stack;String,FALSE,TO_DO,valid-parentheses
+facebook-three-months,21,Merge Two Sorted Lists,Easy,0.677137156,Linked List;Recursion,FALSE,TO_DO,merge-two-sorted-lists
+facebook-three-months,22,Generate Parentheses,Medium,0.780613917,Backtracking;Dynamic Programming;String,FALSE,TO_DO,generate-parentheses
+facebook-three-months,23,Merge k Sorted Lists,Hard,0.584940077,Divide and Conquer;Heap (Priority Queue);Linked List;Merge Sort,FALSE,TO_DO,merge-k-sorted-lists
+facebook-three-months,26,Remove Duplicates from Sorted Array,Easy,0.618912065,Array;Two Pointers,FALSE,TO_DO,remove-duplicates-from-sorted-array
+facebook-three-months,27,Remove Element,Easy,0.610949644,Array;Two Pointers,FALSE,TO_DO,remove-element
+facebook-three-months,31,Next Permutation,Medium,0.444398296,Array;Two Pointers,FALSE,TO_DO,next-permutation
+facebook-three-months,32,Longest Valid Parentheses,Hard,0.37705935,Dynamic Programming;Stack;String,FALSE,TO_DO,longest-valid-parentheses
+facebook-three-months,33,Search in Rotated Sorted Array,Medium,0.43866527,Array;Binary Search,FALSE,TO_DO,search-in-rotated-sorted-array
+facebook-three-months,34,Find First and Last Position of Element in Sorted Array,Medium,0.480436346,Array;Binary Search,FALSE,TO_DO,find-first-and-last-position-of-element-in-sorted-array
+facebook-three-months,35,Search Insert Position,Easy,0.503491062,Array;Binary Search,FALSE,TO_DO,search-insert-position
+facebook-three-months,39,Combination Sum,Medium,0.758301234,Array;Backtracking,FALSE,TO_DO,combination-sum
+facebook-three-months,42,Trapping Rain Water,Hard,0.66471024,Array;Dynamic Programming;Monotonic Stack;Stack;Two Pointers,FALSE,TO_DO,trapping-rain-water
+facebook-three-months,48,Rotate Image,Medium,0.790926508,Array;Math;Matrix,FALSE,TO_DO,rotate-image
+facebook-three-months,49,Group Anagrams,Medium,0.719404276,Array;Hash Table;Sorting;String,FALSE,TO_DO,group-anagrams
+facebook-three-months,50,"Pow(x, n)",Medium,0.380376693,Math;Recursion,FALSE,TO_DO,powx-n
+facebook-three-months,53,Maximum Subarray,Medium,0.527977154,Array;Divide and Conquer;Dynamic Programming,FALSE,SOLVED,maximum-subarray
+facebook-three-months,54,Spiral Matrix,Medium,0.557549589,Array;Matrix;Simulation,FALSE,TO_DO,spiral-matrix
+facebook-three-months,55,Jump Game,Medium,0.402979635,Array;Dynamic Programming;Greedy,FALSE,TO_DO,jump-game
+facebook-three-months,56,Merge Intervals,Medium,0.508053031,Array;Sorting,FALSE,TO_DO,merge-intervals
+facebook-three-months,58,Length of Last Word,Easy,0.579239735,String,FALSE,TO_DO,length-of-last-word
+facebook-three-months,62,Unique Paths,Medium,0.6642369,Combinatorics;Dynamic Programming;Math,FALSE,TO_DO,unique-paths
+facebook-three-months,65,Valid Number,Hard,0.224234966,String,FALSE,TO_DO,valid-number
+facebook-three-months,66,Plus One,Easy,0.492516748,Array;Math,FALSE,TO_DO,plus-one
+facebook-three-months,67,Add Binary,Easy,0.566595543,Bit Manipulation;Math;Simulation;String,FALSE,TO_DO,add-binary
+facebook-three-months,68,Text Justification,Hard,0.500545495,Array;Simulation;String,FALSE,TO_DO,text-justification
+facebook-three-months,70,Climbing Stairs,Easy,0.538323203,Dynamic Programming;Math;Memoization,FALSE,TO_DO,climbing-stairs
+facebook-three-months,71,Simplify Path,Medium,0.496781736,Stack;String,FALSE,TO_DO,simplify-path
+facebook-three-months,73,Set Matrix Zeroes,Medium,0.621336924,Array;Hash Table;Matrix,FALSE,TO_DO,set-matrix-zeroes
+facebook-three-months,75,Sort Colors,Medium,0.688474468,Array;Sorting;Two Pointers,FALSE,TO_DO,sort-colors
+facebook-three-months,76,Minimum Window Substring,Hard,0.466406287,Hash Table;Sliding Window;String,FALSE,TO_DO,minimum-window-substring
+facebook-three-months,78,Subsets,Medium,0.818401026,Array;Backtracking;Bit Manipulation,FALSE,TO_DO,subsets
+facebook-three-months,79,Word Search,Medium,0.465628206,Array;Backtracking;Depth-First Search;Matrix;String,FALSE,TO_DO,word-search
+facebook-three-months,83,Remove Duplicates from Sorted List,Easy,0.55997405,Linked List,FALSE,TO_DO,remove-duplicates-from-sorted-list
+facebook-three-months,84,Largest Rectangle in Histogram,Hard,0.489568592,Array;Monotonic Stack;Stack,FALSE,TO_DO,largest-rectangle-in-histogram
+facebook-three-months,88,Merge Sorted Array,Easy,0.540892086,Array;Sorting;Two Pointers,FALSE,TO_DO,merge-sorted-array
+facebook-three-months,92,Reverse Linked List II,Medium,0.507332789,Linked List,FALSE,TO_DO,reverse-linked-list-ii
+facebook-three-months,94,Binary Tree Inorder Traversal,Easy,0.795196249,Binary Tree;Depth-First Search;Stack;Tree,FALSE,TO_DO,binary-tree-inorder-traversal
+facebook-three-months,100,Same Tree,Easy,0.66363755,Binary Tree;Breadth-First Search;Depth-First Search;Tree,FALSE,TO_DO,same-tree
+facebook-three-months,101,Symmetric Tree,Easy,0.604560232,Binary Tree;Breadth-First Search;Depth-First Search;Tree,FALSE,TO_DO,symmetric-tree
+facebook-three-months,102,Binary Tree Level Order Traversal,Medium,0.71899562,Binary Tree;Breadth-First Search;Tree,FALSE,TO_DO,binary-tree-level-order-traversal
+facebook-three-months,104,Maximum Depth of Binary Tree,Easy,0.777767056,Binary Tree;Breadth-First Search;Depth-First Search;Tree,FALSE,TO_DO,maximum-depth-of-binary-tree
+facebook-three-months,105,Construct Binary Tree from Preorder and Inorder Traversal,Medium,0.680936281,Array;Binary Tree;Divide and Conquer;Hash Table;Tree,FALSE,TO_DO,construct-binary-tree-from-preorder-and-inorder-traversal
+facebook-three-months,110,Balanced Binary Tree,Easy,0.567935404,Binary Tree;Depth-First Search;Tree,FALSE,TO_DO,balanced-binary-tree
+facebook-three-months,113,Path Sum II,Medium,0.61524845,Backtracking;Binary Tree;Depth-First Search;Tree,FALSE,TO_DO,path-sum-ii
+facebook-three-months,116,Populating Next Right Pointers in Each Node,Medium,0.666173402,Binary Tree;Breadth-First Search;Depth-First Search;Linked List;Tree,FALSE,TO_DO,populating-next-right-pointers-in-each-node
+facebook-three-months,121,Best Time to Buy and Sell Stock,Easy,0.561752485,Array;Dynamic Programming,FALSE,TO_DO,best-time-to-buy-and-sell-stock
+facebook-three-months,124,Binary Tree Maximum Path Sum,Hard,0.418804096,Binary Tree;Depth-First Search;Dynamic Programming;Tree,FALSE,TO_DO,binary-tree-maximum-path-sum
+facebook-three-months,125,Valid Palindrome,Easy,0.524314249,String;Two Pointers,FALSE,TO_DO,valid-palindrome
+facebook-three-months,126,Word Ladder II,Hard,0.274331647,Backtracking;Breadth-First Search;Hash Table;String,FALSE,TO_DO,word-ladder-ii
+facebook-three-months,127,Word Ladder,Hard,0.445539281,Breadth-First Search;Hash Table;String,FALSE,TO_DO,word-ladder
+facebook-three-months,128,Longest Consecutive Sequence,Medium,0.469663147,Array;Hash Table;Union Find,FALSE,TO_DO,longest-consecutive-sequence
+facebook-three-months,129,Sum Root to Leaf Numbers,Medium,0.693922644,Binary Tree;Depth-First Search;Tree,FALSE,TO_DO,sum-root-to-leaf-numbers
+facebook-three-months,131,Palindrome Partitioning,Medium,0.734585415,Backtracking;Dynamic Programming;String,FALSE,TO_DO,palindrome-partitioning
+facebook-three-months,133,Clone Graph,Medium,0.643107683,Breadth-First Search;Depth-First Search;Graph;Hash Table,FALSE,TO_DO,clone-graph
+facebook-three-months,134,Gas Station,Medium,0.473081312,Array;Greedy,FALSE,TO_DO,gas-station
+facebook-three-months,135,Candy,Hard,0.477117531,Array;Greedy,FALSE,TO_DO,candy
+facebook-three-months,136,Single Number,Easy,0.770837502,Array;Bit Manipulation,FALSE,TO_DO,single-number
+facebook-three-months,138,Copy List with Random Pointer,Medium,0.620919354,Hash Table;Linked List,FALSE,TO_DO,copy-list-with-random-pointer
+facebook-three-months,139,Word Break,Medium,0.489828309,Array;Dynamic Programming;Hash Table;Memoization;String;Trie,FALSE,TO_DO,word-break
+facebook-three-months,146,LRU Cache,Medium,0.465580224,Design;Doubly-Linked List;Hash Table;Linked List,FALSE,TO_DO,lru-cache
+facebook-three-months,152,Maximum Product Subarray,Medium,0.357918138,Array;Dynamic Programming,FALSE,TO_DO,maximum-product-subarray
+facebook-three-months,155,Min Stack,Medium,0.574902138,Design;Stack,FALSE,TO_DO,min-stack
+facebook-three-months,160,Intersection of Two Linked Lists,Easy,0.62836374,Hash Table;Linked List;Two Pointers,FALSE,TO_DO,intersection-of-two-linked-lists
+facebook-three-months,162,Find Peak Element,Medium,0.467464879,Array;Binary Search,FALSE,TO_DO,find-peak-element
+facebook-three-months,163,Missing Ranges,Easy,0.355150367,Array,TRUE,TO_DO,missing-ranges
+facebook-three-months,167,Two Sum II - Input Array Is Sorted,Medium,0.643615441,Array;Binary Search;Two Pointers,FALSE,TO_DO,two-sum-ii-input-array-is-sorted
+facebook-three-months,169,Majority Element,Easy,0.660299479,Array;Counting;Divide and Conquer;Hash Table;Sorting,FALSE,TO_DO,majority-element
+facebook-three-months,173,Binary Search Tree Iterator,Medium,0.759335666,Binary Search Tree;Binary Tree;Design;Iterator;Stack;Tree,FALSE,TO_DO,binary-search-tree-iterator
+facebook-three-months,174,Dungeon Game,Hard,0.406365496,Array;Dynamic Programming;Matrix,FALSE,TO_DO,dungeon-game
+facebook-three-months,176,Second Highest Salary,Medium,0.459230163,Database,FALSE,SOLVED,second-highest-salary
+facebook-three-months,197,Rising Temperature,Easy,0.50908065,Database,FALSE,SOLVED,rising-temperature
+facebook-three-months,198,House Robber,Medium,0.528168691,Array;Dynamic Programming,FALSE,TO_DO,house-robber
+facebook-three-months,199,Binary Tree Right Side View,Medium,0.690722483,Binary Tree;Breadth-First Search;Depth-First Search;Tree,FALSE,TO_DO,binary-tree-right-side-view
+facebook-three-months,200,Number of Islands,Medium,0.635384159,Array;Breadth-First Search;Depth-First Search;Matrix;Union Find,FALSE,TO_DO,number-of-islands
+facebook-three-months,206,Reverse Linked List,Easy,0.800733209,Linked List;Recursion,FALSE,TO_DO,reverse-linked-list
+facebook-three-months,207,Course Schedule,Medium,0.50535375,Breadth-First Search;Depth-First Search;Graph;Topological Sort,FALSE,TO_DO,course-schedule
+facebook-three-months,215,Kth Largest Element in an Array,Medium,0.686663456,Array;Divide and Conquer;Heap (Priority Queue);Quickselect;Sorting,FALSE,TO_DO,kth-largest-element-in-an-array
+facebook-three-months,217,Contains Duplicate,Easy,0.639126683,Array;Hash Table;Sorting,FALSE,TO_DO,contains-duplicate
+facebook-three-months,219,Contains Duplicate II,Easy,0.50425504,Array;Hash Table;Sliding Window,FALSE,TO_DO,contains-duplicate-ii
+facebook-three-months,227,Basic Calculator II,Medium,0.465223285,Math;Stack;String,FALSE,TO_DO,basic-calculator-ii
+facebook-three-months,231,Power of Two,Easy,0.496872088,Bit Manipulation;Math;Recursion,FALSE,TO_DO,power-of-two
+facebook-three-months,234,Palindrome Linked List,Easy,0.571161542,Linked List;Recursion;Stack;Two Pointers,FALSE,TO_DO,palindrome-linked-list
+facebook-three-months,236,Lowest Common Ancestor of a Binary Tree,Medium,0.684096383,Binary Tree;Depth-First Search;Tree,FALSE,TO_DO,lowest-common-ancestor-of-a-binary-tree
+facebook-three-months,237,Delete Node in a Linked List,Medium,0.833740333,Linked List,FALSE,TO_DO,delete-node-in-a-linked-list
+facebook-three-months,239,Sliding Window Maximum,Hard,0.482728459,Array;Heap (Priority Queue);Monotonic Queue;Queue;Sliding Window,FALSE,TO_DO,sliding-window-maximum
+facebook-three-months,242,Valid Anagram,Easy,0.675656305,Hash Table;Sorting;String,FALSE,SOLVED,valid-anagram
+facebook-three-months,246,Strobogrammatic Number,Easy,0.475737159,Hash Table;String;Two Pointers,TRUE,TO_DO,strobogrammatic-number
+facebook-three-months,249,Group Shifted Strings,Medium,0.676864299,Array;Hash Table;String,TRUE,TO_DO,group-shifted-strings
+facebook-three-months,253,Meeting Rooms II,Medium,0.524661781,Array;Greedy;Heap (Priority Queue);Prefix Sum;Sorting;Two Pointers,TRUE,TO_DO,meeting-rooms-ii
+facebook-three-months,258,Add Digits,Easy,0.684753754,Math;Number Theory;Simulation,FALSE,TO_DO,add-digits
+facebook-three-months,269,Alien Dictionary,Hard,0.369956647,Array;Breadth-First Search;Depth-First Search;Graph;String;Topological Sort,TRUE,TO_DO,alien-dictionary
+facebook-three-months,270,Closest Binary Search Tree Value,Easy,0.493252975,Binary Search;Binary Search Tree;Binary Tree;Depth-First Search;Tree,TRUE,TO_DO,closest-binary-search-tree-value
+facebook-three-months,282,Expression Add Operators,Hard,0.426166309,Backtracking;Math;String,FALSE,TO_DO,expression-add-operators
+facebook-three-months,283,Move Zeroes,Easy,0.633667161,Array;Two Pointers,FALSE,TO_DO,move-zeroes
+facebook-three-months,286,Walls and Gates,Medium,0.63567321,Array;Breadth-First Search;Matrix,TRUE,TO_DO,walls-and-gates
+facebook-three-months,287,Find the Duplicate Number,Medium,0.637725148,Array;Binary Search;Bit Manipulation;Two Pointers,FALSE,TO_DO,find-the-duplicate-number
+facebook-three-months,295,Find Median from Data Stream,Hard,0.540148917,Data Stream;Design;Heap (Priority Queue);Sorting;Two Pointers,FALSE,TO_DO,find-median-from-data-stream
+facebook-three-months,301,Remove Invalid Parentheses,Hard,0.496692679,Backtracking;Breadth-First Search;String,FALSE,TO_DO,remove-invalid-parentheses
+facebook-three-months,303,Range Sum Query - Immutable,Easy,0.708203363,Array;Design;Prefix Sum,FALSE,TO_DO,range-sum-query-immutable
+facebook-three-months,314,Binary Tree Vertical Order Traversal,Medium,0.576887873,Binary Tree;Breadth-First Search;Depth-First Search;Hash Table;Sorting;Tree,TRUE,TO_DO,binary-tree-vertical-order-traversal
+facebook-three-months,322,Coin Change,Medium,0.477184274,Array;Breadth-First Search;Dynamic Programming,FALSE,TO_DO,coin-change
+facebook-three-months,329,Longest Increasing Path in a Matrix,Hard,0.561573909,Array;Breadth-First Search;Depth-First Search;Dynamic Programming;Graph;Matrix;Memoization;Topological Sort,FALSE,TO_DO,longest-increasing-path-in-a-matrix
+facebook-three-months,330,Patching Array,Hard,0.539848177,Array;Greedy,FALSE,TO_DO,patching-array
+facebook-three-months,333,Largest BST Subtree,Medium,0.457643141,Binary Search Tree;Binary Tree;Depth-First Search;Dynamic Programming;Tree,TRUE,TO_DO,largest-bst-subtree
+facebook-three-months,334,Increasing Triplet Subsequence,Medium,0.391718194,Array;Greedy,FALSE,TO_DO,increasing-triplet-subsequence
+facebook-three-months,338,Counting Bits,Easy,0.802613875,Bit Manipulation;Dynamic Programming,FALSE,TO_DO,counting-bits
+facebook-three-months,339,Nested List Weight Sum,Medium,0.85873873,Breadth-First Search;Depth-First Search,TRUE,TO_DO,nested-list-weight-sum
+facebook-three-months,344,Reverse String,Easy,0.803691378,String;Two Pointers,FALSE,TO_DO,reverse-string
+facebook-three-months,345,Reverse Vowels of a String,Easy,0.602011445,String;Two Pointers,FALSE,TO_DO,reverse-vowels-of-a-string
+facebook-three-months,346,Moving Average from Data Stream,Easy,0.801656716,Array;Data Stream;Design;Queue,TRUE,TO_DO,moving-average-from-data-stream
+facebook-three-months,347,Top K Frequent Elements,Medium,0.655311691,Array;Bucket Sort;Counting;Divide and Conquer;Hash Table;Heap (Priority Queue);Quickselect;Sorting,FALSE,TO_DO,top-k-frequent-elements
+facebook-three-months,348,Design Tic-Tac-Toe,Medium,0.587166992,Array;Design;Hash Table;Matrix;Simulation,TRUE,TO_DO,design-tic-tac-toe
+facebook-three-months,349,Intersection of Two Arrays,Easy,0.772833905,Array;Binary Search;Hash Table;Sorting;Two Pointers,FALSE,TO_DO,intersection-of-two-arrays
+facebook-three-months,368,Largest Divisible Subset,Medium,0.492741549,Array;Dynamic Programming;Math;Sorting,FALSE,TO_DO,largest-divisible-subset
+facebook-three-months,378,Kth Smallest Element in a Sorted Matrix,Medium,0.641904882,Array;Binary Search;Heap (Priority Queue);Matrix;Sorting,FALSE,TO_DO,kth-smallest-element-in-a-sorted-matrix
+facebook-three-months,380,Insert Delete GetRandom O(1),Medium,0.552087135,Array;Design;Hash Table;Math;Randomized,FALSE,TO_DO,insert-delete-getrandom-o1
+facebook-three-months,383,Ransom Note,Easy,0.654216501,Counting;Hash Table;String,FALSE,TO_DO,ransom-note
+facebook-three-months,387,First Unique Character in a String,Easy,0.646947345,Counting;Hash Table;Queue;String,FALSE,TO_DO,first-unique-character-in-a-string
+facebook-three-months,394,Decode String,Medium,0.62064642,Recursion;Stack;String,FALSE,TO_DO,decode-string
+facebook-three-months,398,Random Pick Index,Medium,0.649267722,Hash Table;Math;Randomized;Reservoir Sampling,FALSE,TO_DO,random-pick-index
+facebook-three-months,405,Convert a Number to Hexadecimal,Easy,0.528080727,Bit Manipulation;Math;String,FALSE,TO_DO,convert-a-number-to-hexadecimal
+facebook-three-months,408,Valid Word Abbreviation,Easy,0.369971589,String;Two Pointers,TRUE,TO_DO,valid-word-abbreviation
+facebook-three-months,410,Split Array Largest Sum,Hard,0.595203236,Array;Binary Search;Dynamic Programming;Greedy;Prefix Sum,FALSE,TO_DO,split-array-largest-sum
+facebook-three-months,415,Add Strings,Easy,0.520672606,Math;Simulation;String,FALSE,TO_DO,add-strings
+facebook-three-months,419,Battleships in a Board,Medium,0.772156503,Array;Depth-First Search;Matrix,FALSE,TO_DO,battleships-in-a-board
+facebook-three-months,424,Longest Repeating Character Replacement,Medium,0.587007767,Hash Table;Sliding Window;String,FALSE,TO_DO,longest-repeating-character-replacement
+facebook-three-months,426,Convert Binary Search Tree to Sorted Doubly Linked List,Medium,0.656255108,Binary Search Tree;Binary Tree;Depth-First Search;Doubly-Linked List;Linked List;Stack;Tree,TRUE,TO_DO,convert-binary-search-tree-to-sorted-doubly-linked-list
+facebook-three-months,430,Flatten a Multilevel Doubly Linked List,Medium,0.623348237,Depth-First Search;Doubly-Linked List;Linked List,FALSE,TO_DO,flatten-a-multilevel-doubly-linked-list
+facebook-three-months,443,String Compression,Medium,0.59284431,String;Two Pointers,FALSE,TO_DO,string-compression
+facebook-three-months,448,Find All Numbers Disappeared in an Array,Easy,0.634709134,Array;Hash Table,FALSE,TO_DO,find-all-numbers-disappeared-in-an-array
+facebook-three-months,468,Validate IP Address,Medium,0.281384096,String,FALSE,TO_DO,validate-ip-address
+facebook-three-months,480,Sliding Window Median,Hard,0.388626172,Array;Hash Table;Heap (Priority Queue);Sliding Window,FALSE,TO_DO,sliding-window-median
+facebook-three-months,485,Max Consecutive Ones,Easy,0.642026368,Array,FALSE,TO_DO,max-consecutive-ones
+facebook-three-months,489,Robot Room Cleaner,Hard,0.778421767,Backtracking;Interactive,TRUE,TO_DO,robot-room-cleaner
+facebook-three-months,493,Reverse Pairs,Hard,0.33439832,Array;Binary Indexed Tree;Binary Search;Divide and Conquer;Merge Sort;Ordered Set;Segment Tree,FALSE,TO_DO,reverse-pairs
+facebook-three-months,498,Diagonal Traverse,Medium,0.668937903,Array;Matrix;Simulation,FALSE,TO_DO,diagonal-traverse
+facebook-three-months,509,Fibonacci Number,Easy,0.736814395,Dynamic Programming;Math;Memoization;Recursion,FALSE,TO_DO,fibonacci-number
+facebook-three-months,518,Coin Change II,Medium,0.60693125,Array;Dynamic Programming,FALSE,TO_DO,coin-change-ii
+facebook-three-months,523,Continuous Subarray Sum,Medium,0.311423444,Array;Hash Table;Math;Prefix Sum,FALSE,TO_DO,continuous-subarray-sum
+facebook-three-months,528,Random Pick with Weight,Medium,0.488242175,Array;Binary Search;Math;Prefix Sum;Randomized,FALSE,TO_DO,random-pick-with-weight
+facebook-three-months,529,Minesweeper,Medium,0.685884371,Array;Breadth-First Search;Depth-First Search;Matrix,FALSE,TO_DO,minesweeper
+facebook-three-months,540,Single Element in a Sorted Array,Medium,0.591868161,Array;Binary Search,FALSE,TO_DO,single-element-in-a-sorted-array
+facebook-three-months,543,Diameter of Binary Tree,Easy,0.647909506,Binary Tree;Depth-First Search;Tree,FALSE,TO_DO,diameter-of-binary-tree
+facebook-three-months,545,Boundary of Binary Tree,Medium,0.477411121,Binary Tree;Depth-First Search;Tree,TRUE,TO_DO,boundary-of-binary-tree
+facebook-three-months,547,Number of Provinces,Medium,0.697690705,Breadth-First Search;Depth-First Search;Graph;Union Find,FALSE,TO_DO,number-of-provinces
+facebook-three-months,560,Subarray Sum Equals K,Medium,0.465119853,Array;Hash Table;Prefix Sum,FALSE,TO_DO,subarray-sum-equals-k
+facebook-three-months,601,Human Traffic of Stadium,Hard,0.505324375,Database,FALSE,SOLVED,human-traffic-of-stadium
+facebook-three-months,605,Can Place Flowers,Easy,0.29018072,Array;Greedy,FALSE,TO_DO,can-place-flowers
+facebook-three-months,608,Tree Node,Medium,0.749099679,Database,FALSE,SOLVED,tree-node
+facebook-three-months,636,Exclusive Time of Functions,Medium,0.659250652,Array;Stack,FALSE,TO_DO,exclusive-time-of-functions
+facebook-three-months,645,Set Mismatch,Easy,0.44675563,Array;Bit Manipulation;Hash Table;Sorting,FALSE,TO_DO,set-mismatch
+facebook-three-months,647,Palindromic Substrings,Medium,0.723825656,Dynamic Programming;String;Two Pointers,FALSE,TO_DO,palindromic-substrings
+facebook-three-months,670,Maximum Swap,Medium,0.51923769,Greedy;Math,FALSE,TO_DO,maximum-swap
+facebook-three-months,678,Valid Parenthesis String,Medium,0.396720696,Dynamic Programming;Greedy;Stack;String,FALSE,TO_DO,valid-parenthesis-string
+facebook-three-months,680,Valid Palindrome II,Easy,0.438016435,Greedy;String;Two Pointers,FALSE,TO_DO,valid-palindrome-ii
+facebook-three-months,695,Max Area of Island,Medium,0.736616286,Array;Breadth-First Search;Depth-First Search;Matrix;Union Find,FALSE,TO_DO,max-area-of-island
+facebook-three-months,704,Binary Search,Easy,0.602982373,Array;Binary Search,FALSE,TO_DO,binary-search
+facebook-three-months,706,Design HashMap,Easy,0.662627188,Array;Design;Hash Function;Hash Table;Linked List,FALSE,TO_DO,design-hashmap
+facebook-three-months,708,Insert into a Sorted Circular Linked List,Medium,0.384939772,Linked List,TRUE,TO_DO,insert-into-a-sorted-circular-linked-list
+facebook-three-months,721,Accounts Merge,Medium,0.607008648,Array;Breadth-First Search;Depth-First Search;Hash Table;Sorting;String;Union Find,FALSE,TO_DO,accounts-merge
+facebook-three-months,724,Find Pivot Index,Easy,0.617397723,Array;Prefix Sum,FALSE,TO_DO,find-pivot-index
+facebook-three-months,735,Asteroid Collision,Medium,0.466965609,Array;Simulation;Stack,FALSE,TO_DO,asteroid-collision
+facebook-three-months,752,Open the Lock,Medium,0.610372401,Array;Breadth-First Search;Hash Table;String,FALSE,TO_DO,open-the-lock
+facebook-three-months,766,Toeplitz Matrix,Easy,0.695714059,Array;Matrix,FALSE,TO_DO,toeplitz-matrix
+facebook-three-months,791,Custom Sort String,Medium,0.722681599,Hash Table;Sorting;String,FALSE,TO_DO,custom-sort-string
+facebook-three-months,824,Goat Latin,Easy,0.698175315,String,FALSE,TO_DO,goat-latin
+facebook-three-months,825,Friends Of Appropriate Ages,Medium,0.497081257,Array;Binary Search;Sorting;Two Pointers,FALSE,TO_DO,friends-of-appropriate-ages
+facebook-three-months,827,Making A Large Island,Hard,0.560780193,Array;Breadth-First Search;Depth-First Search;Matrix;Union Find,FALSE,TO_DO,making-a-large-island
+facebook-three-months,832,Flipping an Image,Easy,0.834487281,Array;Bit Manipulation;Matrix;Simulation;Two Pointers,FALSE,TO_DO,flipping-an-image
+facebook-three-months,843,Guess the Word,Hard,0.370227961,Array;Game Theory;Interactive;Math;String,FALSE,TO_DO,guess-the-word
+facebook-three-months,863,All Nodes Distance K in Binary Tree,Medium,0.672770036,Binary Tree;Breadth-First Search;Depth-First Search;Hash Table;Tree,FALSE,TO_DO,all-nodes-distance-k-in-binary-tree
+facebook-three-months,865,Smallest Subtree with all the Deepest Nodes,Medium,0.772227,Binary Tree;Breadth-First Search;Depth-First Search;Hash Table;Tree,FALSE,TO_DO,smallest-subtree-with-all-the-deepest-nodes
+facebook-three-months,867,Transpose Matrix,Easy,0.755003233,Array;Matrix;Simulation,FALSE,TO_DO,transpose-matrix
+facebook-three-months,875,Koko Eating Bananas,Medium,0.494956516,Array;Binary Search,FALSE,TO_DO,koko-eating-bananas
+facebook-three-months,905,Sort Array By Parity,Easy,0.7639226,Array;Sorting;Two Pointers,FALSE,TO_DO,sort-array-by-parity
+facebook-three-months,921,Minimum Add to Make Parentheses Valid,Medium,0.744955534,Greedy;Stack;String,FALSE,TO_DO,minimum-add-to-make-parentheses-valid
+facebook-three-months,934,Shortest Bridge,Medium,0.591440732,Array;Breadth-First Search;Depth-First Search;Matrix,FALSE,TO_DO,shortest-bridge
+facebook-three-months,938,Range Sum of BST,Easy,0.875497417,Binary Search Tree;Binary Tree;Depth-First Search;Tree,FALSE,TO_DO,range-sum-of-bst
+facebook-three-months,941,Valid Mountain Array,Easy,0.348081101,Array,FALSE,TO_DO,valid-mountain-array
+facebook-three-months,946,Validate Stack Sequences,Medium,0.700379877,Array;Simulation;Stack,FALSE,TO_DO,validate-stack-sequences
+facebook-three-months,973,K Closest Points to Origin,Medium,0.685984764,Array;Divide and Conquer;Geometry;Heap (Priority Queue);Math;Quickselect;Sorting,FALSE,TO_DO,k-closest-points-to-origin
+facebook-three-months,977,Squares of a Sorted Array,Easy,0.73458735,Array;Sorting;Two Pointers,FALSE,TO_DO,squares-of-a-sorted-array
+facebook-three-months,986,Interval List Intersections,Medium,0.728828551,Array;Line Sweep;Two Pointers,FALSE,TO_DO,interval-list-intersections
+facebook-three-months,987,Vertical Order Traversal of a Binary Tree,Hard,0.529293729,Binary Tree;Breadth-First Search;Depth-First Search;Hash Table;Sorting;Tree,FALSE,TO_DO,vertical-order-traversal-of-a-binary-tree
+facebook-three-months,994,Rotting Oranges,Medium,0.578601235,Array;Breadth-First Search;Matrix,FALSE,TO_DO,rotting-oranges
+facebook-three-months,1004,Max Consecutive Ones III,Medium,0.670303054,Array;Binary Search;Prefix Sum;Sliding Window,FALSE,TO_DO,max-consecutive-ones-iii
+facebook-three-months,1015,Smallest Integer Divisible by K,Medium,0.54457656,Hash Table;Math,FALSE,TO_DO,smallest-integer-divisible-by-k
+facebook-three-months,1047,Remove All Adjacent Duplicates In String,Easy,0.725416412,Stack;String,FALSE,TO_DO,remove-all-adjacent-duplicates-in-string
+facebook-three-months,1091,Shortest Path in Binary Matrix,Medium,0.509091993,Array;Breadth-First Search;Matrix,FALSE,TO_DO,shortest-path-in-binary-matrix
+facebook-three-months,1094,Car Pooling,Medium,0.561360369,Array;Heap (Priority Queue);Prefix Sum;Simulation;Sorting,FALSE,TO_DO,car-pooling
+facebook-three-months,1098,Unpopular Books,Medium,0.434240738,Database,TRUE,SOLVED,unpopular-books
+facebook-three-months,1123,Lowest Common Ancestor of Deepest Leaves,Medium,0.793484306,Binary Tree;Breadth-First Search;Depth-First Search;Hash Table;Tree,FALSE,TO_DO,lowest-common-ancestor-of-deepest-leaves
+facebook-three-months,1143,Longest Common Subsequence,Medium,0.587482496,Dynamic Programming;String,FALSE,TO_DO,longest-common-subsequence
+facebook-three-months,1197,Minimum Knight Moves,Medium,0.416517607,Breadth-First Search,TRUE,TO_DO,minimum-knight-moves
+facebook-three-months,1207,Unique Number of Occurrences,Easy,0.785772893,Array;Hash Table,FALSE,TO_DO,unique-number-of-occurrences
+facebook-three-months,1209,Remove All Adjacent Duplicates in String II,Medium,0.606656739,Stack;String,FALSE,TO_DO,remove-all-adjacent-duplicates-in-string-ii
+facebook-three-months,1216,Valid Palindrome III,Hard,0.491248781,Dynamic Programming;String,TRUE,TO_DO,valid-palindrome-iii
+facebook-three-months,1239,Maximum Length of a Concatenated String with Unique Characters,Medium,0.545524912,Array;Backtracking;Bit Manipulation;String,FALSE,TO_DO,maximum-length-of-a-concatenated-string-with-unique-characters
+facebook-three-months,1249,Minimum Remove to Make Valid Parentheses,Medium,0.711799528,Stack;String,FALSE,TO_DO,minimum-remove-to-make-valid-parentheses
+facebook-three-months,1262,Greatest Sum Divisible by Three,Medium,0.571112611,Array;Dynamic Programming;Greedy;Sorting,FALSE,TO_DO,greatest-sum-divisible-by-three
+facebook-three-months,1280,Students and Examinations,Easy,0.608916795,Database,FALSE,SOLVED,students-and-examinations
+facebook-three-months,1331,Rank Transform of an Array,Easy,0.707673854,Array;Hash Table;Sorting,FALSE,TO_DO,rank-transform-of-an-array
+facebook-three-months,1339,Maximum Product of Splitted Binary Tree,Medium,0.554993847,Binary Tree;Depth-First Search;Tree,FALSE,TO_DO,maximum-product-of-splitted-binary-tree
+facebook-three-months,1411,Number of Ways to Paint N × 3 Grid,Hard,0.804177562,Dynamic Programming,FALSE,TO_DO,number-of-ways-to-paint-n-3-grid
+facebook-three-months,1423,Maximum Points You Can Obtain from Cards,Medium,0.569890698,Array;Prefix Sum;Sliding Window,FALSE,TO_DO,maximum-points-you-can-obtain-from-cards
+facebook-three-months,1424,Diagonal Traverse II,Medium,0.582930022,Array;Heap (Priority Queue);Sorting,FALSE,TO_DO,diagonal-traverse-ii
+facebook-three-months,1431,Kids With the Greatest Number of Candies,Easy,0.880408888,Array,FALSE,TO_DO,kids-with-the-greatest-number-of-candies
+facebook-three-months,1458,Max Dot Product of Two Subsequences,Hard,0.693048821,Array;Dynamic Programming,FALSE,TO_DO,max-dot-product-of-two-subsequences
+facebook-three-months,1463,Cherry Pickup II,Hard,0.722158895,Array;Dynamic Programming;Matrix,FALSE,TO_DO,cherry-pickup-ii
+facebook-three-months,1502,Can Make Arithmetic Progression From Sequence,Easy,0.693685885,Array;Sorting,FALSE,TO_DO,can-make-arithmetic-progression-from-sequence
+facebook-three-months,1539,Kth Missing Positive Number,Easy,0.630582913,Array;Binary Search,FALSE,TO_DO,kth-missing-positive-number
+facebook-three-months,1570,Dot Product of Two Sparse Vectors,Medium,0.899272057,Array;Design;Hash Table;Two Pointers,TRUE,TO_DO,dot-product-of-two-sparse-vectors
+facebook-three-months,1614,Maximum Nesting Depth of the Parentheses,Easy,0.846912928,Stack;String,FALSE,TO_DO,maximum-nesting-depth-of-the-parentheses
+facebook-three-months,1633,Percentage of Users Attended a Contest,Easy,0.598058675,Database,FALSE,SOLVED,percentage-of-users-attended-a-contest
+facebook-three-months,1650,Lowest Common Ancestor of a Binary Tree III,Medium,0.82896882,Binary Tree;Hash Table;Tree;Two Pointers,TRUE,TO_DO,lowest-common-ancestor-of-a-binary-tree-iii
+facebook-three-months,1743,Restore the Array From Adjacent Pairs,Medium,0.750347496,Array;Depth-First Search;Hash Table,FALSE,TO_DO,restore-the-array-from-adjacent-pairs
+facebook-three-months,1749,Maximum Absolute Sum of Any Subarray,Medium,0.713022188,Array;Dynamic Programming,FALSE,TO_DO,maximum-absolute-sum-of-any-subarray
+facebook-three-months,1752,Check if Array Is Sorted and Rotated,Easy,0.555749118,Array,FALSE,TO_DO,check-if-array-is-sorted-and-rotated
+facebook-three-months,1757,Recyclable and Low Fat Products,Easy,0.888349285,Database,FALSE,SOLVED,recyclable-and-low-fat-products
+facebook-three-months,1762,Buildings With an Ocean View,Medium,0.808821023,Array;Monotonic Stack;Stack,TRUE,TO_DO,buildings-with-an-ocean-view
+facebook-three-months,1865,Finding Pairs With a Certain Sum,Medium,0.616254887,Array;Design;Hash Table,FALSE,TO_DO,finding-pairs-with-a-certain-sum
+facebook-three-months,1868,Product of Two Run-Length Encoded Arrays,Medium,0.595502113,Array;Two Pointers,TRUE,TO_DO,product-of-two-run-length-encoded-arrays
+facebook-three-months,1929,Concatenation of Array,Easy,0.906550647,Array;Simulation,FALSE,TO_DO,concatenation-of-array
+facebook-three-months,1934,Confirmation Rate,Medium,0.615836104,Database,FALSE,SOLVED,confirmation-rate
+facebook-three-months,1949,Strong Friendship,Medium,0.543455998,Database,TRUE,SOLVED,strong-friendship
+facebook-three-months,2043,Simple Bank System,Medium,0.699814177,Array;Design;Hash Table;Simulation,FALSE,TO_DO,simple-bank-system
+facebook-three-months,2054,Two Best Non-Overlapping Events,Medium,0.640825567,Array;Binary Search;Dynamic Programming;Heap (Priority Queue);Sorting,FALSE,TO_DO,two-best-non-overlapping-events
+facebook-three-months,2141,Maximum Running Time of N Computers,Hard,0.564516794,Array;Binary Search;Greedy;Sorting,FALSE,TO_DO,maximum-running-time-of-n-computers
+facebook-three-months,2154,Keep Multiplying Found Values by Two,Easy,0.750931291,Array;Hash Table;Simulation;Sorting,FALSE,TO_DO,keep-multiplying-found-values-by-two
+facebook-three-months,2226,Maximum Candies Allocated to K Children,Medium,0.499303031,Array;Binary Search,FALSE,TO_DO,maximum-candies-allocated-to-k-children
+facebook-three-months,2236,Root Equals Sum of Children,Easy,0.848003766,Binary Tree;Tree,FALSE,TO_DO,root-equals-sum-of-children
+facebook-three-months,2257,Count Unguarded Cells in the Grid,Medium,0.690158107,Array;Matrix;Simulation,FALSE,TO_DO,count-unguarded-cells-in-the-grid
+facebook-three-months,2265,Count Nodes Equal to Average of Subtree,Medium,0.867220718,Binary Tree;Depth-First Search;Tree,FALSE,TO_DO,count-nodes-equal-to-average-of-subtree
+facebook-three-months,2300,Successful Pairs of Spells and Potions,Medium,0.493507984,Array;Binary Search;Sorting;Two Pointers,FALSE,TO_DO,successful-pairs-of-spells-and-potions
+facebook-three-months,2402,Meeting Rooms III,Hard,0.517221343,Array;Hash Table;Heap (Priority Queue);Simulation;Sorting,FALSE,TO_DO,meeting-rooms-iii
+facebook-three-months,2536,Increment Submatrices by One,Medium,0.738537829,Array;Matrix;Prefix Sum,FALSE,TO_DO,increment-submatrices-by-one
+facebook-three-months,2817,Minimum Absolute Difference Between Elements With Constraint,Medium,0.367216265,Array;Binary Search;Ordered Set,FALSE,TO_DO,minimum-absolute-difference-between-elements-with-constraint
+facebook-three-months,3228,Maximum Number of Operations to Move Ones to the End,Medium,0.670890187,Counting;Greedy;String,FALSE,TO_DO,maximum-number-of-operations-to-move-ones-to-the-end
+facebook-three-months,3304,Find the K-th Character in String Game I,Easy,0.816427377,Bit Manipulation;Math;Recursion;Simulation,FALSE,TO_DO,find-the-k-th-character-in-string-game-i
+facebook-three-months,3346,Maximum Frequency of an Element After Performing Operations I,Medium,0.400908007,Array;Binary Search;Prefix Sum;Sliding Window;Sorting,FALSE,TO_DO,maximum-frequency-of-an-element-after-performing-operations-i
+facebook-three-months,3354,Make Array Elements Equal to Zero,Easy,0.683267168,Array;Prefix Sum;Simulation,FALSE,TO_DO,make-array-elements-equal-to-zero
+facebook-three-months,3461,Check If Digits Are Equal in String After Operations I,Easy,0.824664166,Combinatorics;Math;Number Theory;Simulation;String,FALSE,TO_DO,check-if-digits-are-equal-in-string-after-operations-i
+facebook-three-months,3570,Find Books with No Available Copies,Easy,0.534671069,Database,FALSE,TO_DO,find-books-with-no-available-copies
+facebook-three-months,3573,Best Time to Buy and Sell Stock V,Medium,0.609671615,Array;Dynamic Programming,FALSE,TO_DO,best-time-to-buy-and-sell-stock-v
+facebook-three-months,3577,Count the Number of Computer Unlocking Permutations,Medium,0.590065129,Array;Brainteaser;Combinatorics;Math,FALSE,TO_DO,count-the-number-of-computer-unlocking-permutations
+facebook-three-months,3578,Count Partitions With Max-Min Difference at Most K,Medium,0.590885508,Array;Dynamic Programming;Monotonic Queue;Prefix Sum;Queue;Sliding Window,FALSE,TO_DO,count-partitions-with-max-min-difference-at-most-k
+facebook-three-months,3583,Count Special Triplets,Medium,0.471371909,Array;Counting;Hash Table,FALSE,TO_DO,count-special-triplets
+facebook-three-months,3607,Power Grid Maintenance,Medium,0.564472329,Array;Breadth-First Search;Depth-First Search;Graph;Hash Table;Heap (Priority Queue);Ordered Set;Union Find,FALSE,TO_DO,power-grid-maintenance
+facebook-three-months,3625,Count Number of Trapezoids II,Hard,0.402169058,Array;Geometry;Hash Table;Math,FALSE,TO_DO,count-number-of-trapezoids-ii
+facebook-three-months,3652,Best Time to Buy and Sell Stock using Strategy,Medium,0.593870785,Array;Prefix Sum;Sliding Window,FALSE,TO_DO,best-time-to-buy-and-sell-stock-using-strategy

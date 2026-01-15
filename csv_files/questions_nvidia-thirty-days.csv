@@ -1,0 +1,3 @@
+favoriteSlug,question_number,title,difficulty,ac_rate,topics,paidOnly,status,titleSlug
+nvidia-thirty-days,20,Valid Parentheses,Easy,0.4343634878959552,Stack;String,False,TO_DO,valid-parentheses
+nvidia-thirty-days,146,LRU Cache,Medium,0.46558068842474865,Design;Doubly-Linked List;Hash Table;Linked List,False,TO_DO,lru-cache

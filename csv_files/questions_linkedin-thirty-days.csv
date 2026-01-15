@@ -1,0 +1,9 @@
+favoriteSlug,question_number,title,difficulty,ac_rate,topics,paidOnly,status,titleSlug
+linkedin-thirty-days,146,LRU Cache,Medium,0.46558068842474865,Design;Doubly-Linked List;Hash Table;Linked List,False,TO_DO,lru-cache
+linkedin-thirty-days,244,Shortest Word Distance II,Medium,0.6259886402079661,Array;Design;Hash Table;String;Two Pointers,True,TO_DO,shortest-word-distance-ii
+linkedin-thirty-days,339,Nested List Weight Sum,Medium,0.858738729603434,Breadth-First Search;Depth-First Search,True,TO_DO,nested-list-weight-sum
+linkedin-thirty-days,364,Nested List Weight Sum II,Medium,0.6657518093844027,Breadth-First Search;Depth-First Search;Stack,True,TO_DO,nested-list-weight-sum-ii
+linkedin-thirty-days,380,Insert Delete GetRandom O(1),Medium,0.5520878485156935,Array;Design;Hash Table;Math;Randomized,False,TO_DO,insert-delete-getrandom-o1
+linkedin-thirty-days,432,All O`one Data Structure,Hard,0.4413748831300131,Design;Doubly-Linked List;Hash Table;Linked List,False,TO_DO,all-oone-data-structure
+linkedin-thirty-days,636,Exclusive Time of Functions,Medium,0.6592406307830754,Array;Stack,False,TO_DO,exclusive-time-of-functions
+linkedin-thirty-days,716,Max Stack,Hard,0.45774889160155013,Design;Doubly-Linked List;Linked List;Ordered Set;Stack,True,TO_DO,max-stack

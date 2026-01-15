@@ -1,0 +1,14 @@
+favoriteSlug,question_number,title,difficulty,ac_rate,topics,paidOnly,status,titleSlug
+uber-thirty-days,79,Word Search,Medium,0.46562910274979785,Array;Backtracking;Depth-First Search;Matrix;String,False,TO_DO,word-search
+uber-thirty-days,204,Count Primes,Medium,0.3561085570714665,Array;Enumeration;Math;Number Theory,False,TO_DO,count-primes
+uber-thirty-days,227,Basic Calculator II,Medium,0.4652228475137846,Math;Stack;String,False,TO_DO,basic-calculator-ii
+uber-thirty-days,253,Meeting Rooms II,Medium,0.5246619782445591,Array;Greedy;Heap (Priority Queue);Prefix Sum;Sorting;Two Pointers,True,TO_DO,meeting-rooms-ii
+uber-thirty-days,269,Alien Dictionary,Hard,0.3699566467436592,Array;Breadth-First Search;Depth-First Search;Graph;String;Topological Sort,True,TO_DO,alien-dictionary
+uber-thirty-days,305,Number of Islands II,Hard,0.40301466663277496,Array;Hash Table;Union Find,True,TO_DO,number-of-islands-ii
+uber-thirty-days,399,Evaluate Division,Medium,0.6386108125161761,Array;Breadth-First Search;Depth-First Search;Graph;Shortest Path;String;Union Find,False,TO_DO,evaluate-division
+uber-thirty-days,427,Construct Quad Tree,Medium,0.7794546529888035,Array;Divide and Conquer;Matrix;Tree,False,TO_DO,construct-quad-tree
+uber-thirty-days,752,Open the Lock,Medium,0.6103736229270397,Array;Breadth-First Search;Hash Table;String,False,TO_DO,open-the-lock
+uber-thirty-days,977,Squares of a Sorted Array,Easy,0.7345877627695956,Array;Sorting;Two Pointers,False,TO_DO,squares-of-a-sorted-array
+uber-thirty-days,1429,First Unique Number,Medium,0.567841801990571,Array;Data Stream;Design;Hash Table;Queue,True,TO_DO,first-unique-number
+uber-thirty-days,1438,Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit,Medium,0.5718313922735885,Array;Heap (Priority Queue);Monotonic Queue;Ordered Set;Queue;Sliding Window,False,TO_DO,longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit
+uber-thirty-days,2791,Count Paths That Can Form a Palindrome in a Tree,Hard,0.47261315157161765,Bit Manipulation;Bitmask;Depth-First Search;Dynamic Programming;Tree,False,TO_DO,count-paths-that-can-form-a-palindrome-in-a-tree

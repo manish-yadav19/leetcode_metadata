@@ -1,0 +1,5 @@
+favoriteSlug,question_number,title,difficulty,ac_rate,topics,paidOnly,status,titleSlug
+tiktok-thirty-days,68,Text Justification,Hard,0.5005459003776557,Array;Simulation;String,False,TO_DO,text-justification
+tiktok-thirty-days,298,Binary Tree Longest Consecutive Sequence,Medium,0.5456451580437598,Binary Tree;Depth-First Search;Tree,True,TO_DO,binary-tree-longest-consecutive-sequence
+tiktok-thirty-days,845,Longest Mountain in Array,Medium,0.4160911270447391,Array;Dynamic Programming;Enumeration;Two Pointers,False,TO_DO,longest-mountain-in-array
+tiktok-thirty-days,887,Super Egg Drop,Hard,0.2970459807623576,Binary Search;Dynamic Programming;Math,False,TO_DO,super-egg-drop

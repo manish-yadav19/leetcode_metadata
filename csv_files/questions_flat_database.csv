@@ -1,0 +1,311 @@
+favoriteSlug,question_number,title,difficulty,ac_rate,topics
+database,175,Combine Two Tables,Easy,0.7899132516286607,Database
+database,176,Second Highest Salary,Medium,0.45923024959355874,Database
+database,177,Nth Highest Salary,Medium,0.38700252383123185,Database
+database,178,Rank Scores,Medium,0.6678510620150269,Database
+database,180,Consecutive Numbers,Medium,0.47562498721733265,Database
+database,181,Employees Earning More Than Their Managers,Easy,0.7260679344684935,Database
+database,182,Duplicate Emails,Easy,0.732166137006385,Database
+database,183,Customers Who Never Order,Easy,0.7131012989836019,Database
+database,184,Department Highest Salary,Medium,0.5685510734175699,Database
+database,185,Department Top Three Salaries,Hard,0.5949667864768788,Database
+database,196,Delete Duplicate Emails,Easy,0.6538395857961163,Database
+database,197,Rising Temperature,Easy,0.5090810743568498,Database
+database,262,Trips and Users,Hard,0.37485813481334035,Database
+database,511,Game Play Analysis I,Easy,0.7615467629877877,Database
+database,512,Game Play Analysis II,Easy,0.5447290814313306,Database
+database,534,Game Play Analysis III,Medium,0.813347308968373,Database
+database,550,Game Play Analysis IV,Medium,0.405165550166673,Database
+database,569,Median Employee Salary,Hard,0.6603944321720384,Database
+database,570,Managers with at Least 5 Direct Reports,Medium,0.4892217063551495,Database
+database,571,Find Median Given Frequency of Numbers,Hard,0.4233377091036094,Database
+database,574,Winning Candidate,Medium,0.6246511704258183,Database
+database,577,Employee Bonus,Easy,0.7700499149608695,Database
+database,578,Get Highest Answer Rate Question,Medium,0.4006316251014689,Database
+database,579,Find Cumulative Salary of an Employee,Hard,0.49320443885139,Database
+database,580,Count Student Number in Departments,Medium,0.5991064584317339,Database
+database,584,Find Customer Referee,Easy,0.7238797543991314,Database
+database,585,Investments in 2016,Medium,0.5070788350693786,Database
+database,586,Customer Placing the Largest Number of Orders,Easy,0.6419229663696464,Database
+database,595,Big Countries,Easy,0.6835397064963593,Database
+database,596,Classes With at Least 5 Students,Easy,0.627999171903741,Database
+database,597,Friend Requests I: Overall Acceptance Rate,Easy,0.41187507216256786,Database
+database,601,Human Traffic of Stadium,Hard,0.5053243751132761,Database
+database,602,Friend Requests II: Who Has the Most Friends,Medium,0.6207294814637503,Database
+database,603,Consecutive Available Seats,Easy,0.6511907672117648,Database
+database,607,Sales Person,Easy,0.6591481060849026,Database
+database,608,Tree Node,Medium,0.7490988612735225,Database
+database,610,Triangle Judgement,Easy,0.744383196524742,Database
+database,612,Shortest Distance in a Plane,Medium,0.6112053896112182,Database
+database,613,Shortest Distance in a Line,Easy,0.7978762951454089,Database
+database,614,Second Degree Follower,Medium,0.4062766047324742,Database
+database,615,Average Salary: Departments VS Company,Hard,0.5673239585536054,Database
+database,618,Students Report By Geography,Hard,0.6358468446548253,Database
+database,619,Biggest Single Number,Easy,0.707249387159574,Database
+database,620,Not Boring Movies,Easy,0.7519761983766875,Database
+database,626,Exchange Seats,Medium,0.7367938027507912,Database
+database,627,Swap Sex of Employees,Easy,0.8443159094881568,Database
+database,1045,Customers Who Bought All Products,Medium,0.635714555881095,Database
+database,1050,Actors and Directors Who Cooperated At Least Three Times,Easy,0.7085305979309137,Database
+database,1068,Product Sales Analysis I,Easy,0.8546215411678094,Database
+database,1069,Product Sales Analysis II,Easy,0.8256720430107527,Database
+database,1070,Product Sales Analysis III,Medium,0.4542081143511658,Database
+database,1075,Project Employees I,Easy,0.6642232969249872,Database
+database,1076,Project Employees II,Easy,0.5035304028181957,Database
+database,1077,Project Employees III,Medium,0.7712422555689377,Database
+database,1082,Sales Analysis I,Easy,0.7473364283090078,Database
+database,1083,Sales Analysis II,Easy,0.5004280854352454,Database
+database,1084,Sales Analysis III,Easy,0.4711123152466699,Database
+database,1097,Game Play Analysis V,Hard,0.5051866110576408,Database
+database,1098,Unpopular Books,Medium,0.4342407376793226,Database
+database,1107,New Users Daily Count,Medium,0.45080975809758095,Database
+database,1112,Highest Grade For Each Student,Medium,0.7116342488243315,Database
+database,1113,Reported Posts,Easy,0.6489793932316376,Database
+database,1126,Active Businesses,Medium,0.6596379045661578,Database
+database,1127,User Purchase Platform,Hard,0.4648666859177977,Database
+database,1132,Reported Posts II,Medium,0.3204689365705395,Database
+database,1141,User Activity for the Past 30 Days I,Easy,0.5027233231113929,Database
+database,1142,User Activity for the Past 30 Days II,Easy,0.35635243647563525,Database
+database,1148,Article Views I,Easy,0.7680933169708795,Database
+database,1149,Article Views II,Medium,0.47275632375009446,Database
+database,1158,Market Analysis I,Medium,0.571458882507579,Database
+database,1159,Market Analysis II,Hard,0.5771748363563683,Database
+database,1164,Product Price at a Given Date,Medium,0.5766074618438954,Database
+database,1173,Immediate Food Delivery I,Easy,0.8072716523795448,Database
+database,1174,Immediate Food Delivery II,Medium,0.5546792997639337,Database
+database,1179,Reformat Department Table,Easy,0.7638488539420538,Database
+database,1193,Monthly Transactions I,Medium,0.5882367307861393,Database
+database,1194,Tournament Winners,Hard,0.500407531176135,Database
+database,1204,Last Person to Fit in the Bus,Medium,0.6886668729974594,Database
+database,1205,Monthly Transactions II,Medium,0.420442904489304,Database
+database,1211,Queries Quality and Percentage,Easy,0.5166219626528654,Database
+database,1212,Team Scores in Football Tournament,Medium,0.558738499082125,Database
+database,1225,Report Contiguous Dates,Hard,0.5727870202897513,Database
+database,1241,Number of Comments per Post,Easy,0.657683161589854,Database
+database,1251,Average Selling Price,Easy,0.3701107313942903,Database
+database,1264,Page Recommendations,Medium,0.6539489165604471,Database
+database,1270,All People Report to the Given Manager,Medium,0.8407043511547786,Database
+database,1280,Students and Examinations,Easy,0.6089162877043518,Database
+database,1285,Find the Start and End Number of Continuous Ranges,Medium,0.8199565063470389,Database
+database,1294,Weather Type in Each Country,Easy,0.6701043183641928,Database
+database,1303,Find the Team Size,Easy,0.8959552390187359,Database
+database,1308,Running Total for Different Genders,Medium,0.8619000073959026,Database
+database,1321,Restaurant Growth,Medium,0.5794896566835652,Database
+database,1322,Ads Performance,Easy,0.5875594609629554,Database
+database,1327,List the Products Ordered in a Period,Easy,0.7171078773156999,Database
+database,1336,Number of Transactions per Visit,Hard,0.47814790758095943,Database
+database,1341,Movie Rating,Medium,0.42479073690072083,Database
+database,1350,Students With Invalid Departments,Easy,0.8982756023065018,Database
+database,1355,Activity Participants,Medium,0.71935957636059,Database
+database,1364,Number of Trusted Contacts of a Customer,Medium,0.7477680611840702,Database
+database,1369,Get the Second Most Recent Activity,Hard,0.6728820641387236,Database
+database,1378,Replace Employee ID With The Unique Identifier,Easy,0.8351848895547396,Database
+database,1384,Total Sales Amount by Year,Hard,0.6120600818161946,Database
+database,1393,Capital Gain/Loss,Medium,0.8463084658183339,Database
+database,1398,Customers Who Bought Products A and B but Not C,Medium,0.7159610710760643,Database
+database,1407,Top Travellers,Easy,0.57094136856855,Database
+database,1412,Find the Quiet Students in All Exams,Hard,0.5805199388307258,Database
+database,1421,NPV Queries,Easy,0.8298071272105573,Database
+database,1435,Create a Session Bar Chart,Easy,0.7469842596461903,Database
+database,1440,Evaluate Boolean Expression,Medium,0.7189086415058467,Database
+database,1445,Apples & Oranges,Medium,0.8604404210414536,Database
+database,1454,Active Users,Medium,0.36586137111054895,Database
+database,1459,Rectangles Area,Medium,0.6865284077138801,Database
+database,1468,Calculate Salaries,Medium,0.773761027328891,Database
+database,1479,Sales by Day of the Week,Hard,0.7650784406508209,Database
+database,1484,Group Sold Products By The Date,Easy,0.7787680567467197,Database
+database,1495,Friendly Movies Streamed Last Month,Easy,0.48912721528360564,Database
+database,1501,Countries You Can Safely Invest In,Medium,0.5065645514223195,Database
+database,1511,Customer Order Frequency,Easy,0.6655004485454312,Database
+database,1517,Find Users With Valid E-Mails,Easy,0.3728609687302233,Database
+database,1527,Patients With a Condition,Easy,0.3879884747827309,Database
+database,1532,The Most Recent Three Orders,Medium,0.6906560852312877,Database
+database,1543,Fix Product Name Format,Easy,0.5880649911398408,Database
+database,1549,The Most Recent Orders for Each Product,Medium,0.6499974390056512,Database
+database,1555,Bank Account Summary,Medium,0.5201836572973477,Database
+database,1565,Unique Orders and Customers Per Month,Easy,0.8202560893424473,Database
+database,1571,Warehouse Manager,Easy,0.8732387123315849,Database
+database,1581,Customer Who Visited but Did Not Make Any Transactions,Easy,0.6760016061475106,Database
+database,1587,Bank Account Summary II,Easy,0.830525361363852,Database
+database,1596,The Most Frequently Ordered Products for Each Customer,Medium,0.7773491128373564,Database
+database,1607,Sellers With No Sales,Easy,0.5430685995530099,Database
+database,1613,Find the Missing IDs,Medium,0.7289570356173135,Database
+database,1623,All Valid Triplets That Can Represent a Country,Easy,0.8086382723455309,Database
+database,1633,Percentage of Users Attended a Contest,Easy,0.5980577028447432,Database
+database,1635,Hopper Company Queries I,Hard,0.484408315565032,Database
+database,1645,Hopper Company Queries II,Hard,0.39779401231915196,Database
+database,1651,Hopper Company Queries III,Hard,0.6574876237623762,Database
+database,1661,Average Time of Process per Machine,Easy,0.6713300147155644,Database
+database,1667,Fix Names in a Table,Easy,0.6066076842346595,Database
+database,1677,Product's Worth Over Invoices,Easy,0.3850361811167201,Database
+database,1683,Invalid Tweets,Easy,0.8524327528580358,Database
+database,1693,Daily Leads and Partners,Easy,0.8665452456548942,Database
+database,1699,Number of Calls Between Two Persons,Medium,0.8080602042866194,Database
+database,1709,Biggest Window Between Visits,Medium,0.696636072292834,Database
+database,1715,Count Apples and Oranges,Medium,0.7571508918528042,Database
+database,1729,Find Followers Count,Easy,0.6949910625747107,Database
+database,1731,The Number of Employees Which Report to Each Employee,Easy,0.5289631328725574,Database
+database,1741,Find Total Time Spent by Each Employee,Easy,0.8648724056368057,Database
+database,1747,Leetflex Banned Accounts,Medium,0.6191156969998343,Database
+database,1757,Recyclable and Low Fat Products,Easy,0.8883489310143314,Database
+database,1767,Find the Subtasks That Did Not Execute,Hard,0.7850607220096489,Database
+database,1777,Product's Price for Each Store,Easy,0.8214453939842541,Database
+database,1783,Grand Slam Titles,Medium,0.8297277227722772,Database
+database,1789,Primary Department for Each Employee,Easy,0.7364744928147338,Database
+database,1795,Rearrange Products Table,Easy,0.8558767900567414,Database
+database,1809,Ad-Free Sessions,Easy,0.5884556340190359,Database
+database,1811,Find Interview Candidates,Medium,0.605023338519671,Database
+database,1821,Find Customers With Positive Revenue this Year,Easy,0.8767596151492154,Database
+database,1831,Maximum Transaction Each Day,Medium,0.824265127941754,Database
+database,1841,League Statistics,Medium,0.5353924926023207,Database
+database,1843,Suspicious Bank Accounts,Medium,0.44276353534438506,Database
+database,1853,Convert Date Format,Easy,0.8499269124573656,Database
+database,1867,Orders With Maximum Quantity Above Average,Medium,0.7060377081652116,Database
+database,1873,Calculate Special Bonus,Easy,0.5703511801957398,Database
+database,1875,Group Employees of the Same Salary,Medium,0.6561050328227571,Database
+database,1890,The Latest Login in 2020,Easy,0.7713998043511839,Database
+database,1892,Page Recommendations II,Hard,0.45508337816030126,Database
+database,1907,Count Salary Categories,Medium,0.638185658894978,Database
+database,1917,Leetcodify Friends Recommendations,Hard,0.28487113909108797,Database
+database,1919,Leetcodify Similar Friends,Hard,0.4299262983488545,Database
+database,1934,Confirmation Rate,Medium,0.6158361038567468,Database
+database,1939,Users That Actively Request Confirmation Messages,Easy,0.5674689129562775,Database
+database,1949,Strong Friendship,Medium,0.5434559978152522,Database
+database,1951,All the Pairs With the Maximum Number of Common Followers,Medium,0.6940438561833269,Database
+database,1965,Employees With Missing Information,Easy,0.7302554508043718,Database
+database,1972,First and Last Call On the Same Day,Hard,0.5100727593893258,Database
+database,1978,Employees Whose Manager Left the Company,Easy,0.4872303392161151,Database
+database,1988,Find Cutoff Score for Each School,Medium,0.6687555076862821,Database
+database,1990,Count the Number of Experiments,Medium,0.48702757916241063,Database
+database,2004,The Number of Seniors and Juniors to Join the Company,Hard,0.45820901976045314,Database
+database,2010,The Number of Seniors and Juniors to Join the Company II,Hard,0.6550338023022109,Database
+database,2020,Number of Accounts That Did Not Stream,Medium,0.7207183344811144,Database
+database,2026,Low-Quality Problems,Easy,0.8404243623570801,Database
+database,2041,Accepted Candidates From the Interviews,Medium,0.7851825947944248,Database
+database,2051,The Category of Each Member in the Store,Medium,0.7068491312806064,Database
+database,2066,Account Balance,Medium,0.8172064115145568,Database
+database,2072,The Winner University,Easy,0.7539127712854758,Database
+database,2082,The Number of Rich Customers,Easy,0.7731003236245955,Database
+database,2084,Drop Type 1 Orders for Customers With Type 0 Orders,Medium,0.866069251402097,Database
+database,2112,The Airport With the Most Traffic,Medium,0.7140832922621982,Database
+database,2118,Build the Equation,Hard,0.5659083826737301,Database
+database,2142,The Number of Passengers in Each Bus I,Medium,0.48996739403059947,Database
+database,2153,The Number of Passengers in Each Bus II,Hard,0.4006899435500732,Database
+database,2159,Order Two Columns Independently,Medium,0.6142022209234366,Database
+database,2173,Longest Winning Streak,Hard,0.5430634347601857,Database
+database,2175,The Change in Global Rankings,Medium,0.6091005291005291,Database
+database,2199,Finding the Topic of Each Post,Hard,0.5038737168312997,Database
+database,2205,The Number of Users That Are Eligible for Discount,Easy,0.5063929186132284,Database
+database,2228,Users With Two Purchases Within Seven Days,Medium,0.46577908877107665,Database
+database,2230,The Users That Are Eligible for Discount,Easy,0.5058667411649672,Database
+database,2238,Number of Times a Driver Was a Passenger,Medium,0.7163681526996993,Database
+database,2252,Dynamic Pivoting of a Table,Hard,0.5730820995962315,Database
+database,2253,Dynamic Unpivoting of a Table,Hard,0.6927651139742319,Database
+database,2292,Products With Three or More Orders in Two Consecutive Years,Medium,0.40467356122207304,Database
+database,2298,Tasks Count in the Weekend,Medium,0.8176158212781541,Database
+database,2308,Arrange Table by Gender,Medium,0.7074987159732923,Database
+database,2314,The First Day of the Maximum Recorded Degree in Each City,Medium,0.7361652024273162,Database
+database,2324,Product Sales Analysis IV,Medium,0.7582364341085271,Database
+database,2329,Product Sales Analysis V,Easy,0.7073137295222428,Database
+database,2339,All the Matches of the League,Easy,0.8846459824980112,Database
+database,2346,Compute the Rank as a Percentage,Medium,0.338903049183423,Database
+database,2356,Number of Unique Subjects Taught by Each Teacher,Easy,0.8928183185353883,Database
+database,2362,Generate the Invoice,Hard,0.7549462973431317,Database
+database,2372,Calculate the Influence of Each Salesperson,Medium,0.8418775686783474,Database
+database,2377,Sort the Olympic Table,Easy,0.7932454695222405,Database
+database,2388,Change Null Values in a Table to the Previous Value,Medium,0.5153247578211847,Database
+database,2394,Employees With Deductions,Medium,0.42229931810025123,Database
+database,2474,Customers With Strictly Increasing Purchases,Hard,0.4900416039656546,Database
+database,2480,Form a Chemical Bond,Easy,0.7971948874561702,Database
+database,2494,Merge Overlapping Events in the Same Hall,Hard,0.36923454367026504,Database
+database,2504,Concatenate the Name and the Profession,Easy,0.7982476912147763,Database
+database,2668,Find Latest Salaries,Easy,0.7503503035964502,Database
+database,2669,Count Artist Occurrences On Spotify Ranking List,Easy,0.741471007912829,Database
+database,2686,Immediate Food Delivery III,Medium,0.7024930043245994,Database
+database,2687,Bikes Last Time Used ,Easy,0.8056872037914693,Database
+database,2688,Find Active Users,Medium,0.4488238533553615,Database
+database,2701,Consecutive Transactions with Increasing Amounts,Hard,0.3484186846632262,Database
+database,2720,Popularity Percentage,Hard,0.5306620709464311,Database
+database,2738,Count Occurrences in Text,Medium,0.5477349119550494,Database
+database,2752,Customers with Maximum Number of Transactions on Consecutive Days,Hard,0.41975484606613456,Database
+database,2783,Flight Occupancy and Waitlist Analysis,Medium,0.386493083807974,Database
+database,2837,Total Traveled Distance,Easy,0.768297902696533,Database
+database,2853,Highest Salaries Difference,Easy,0.7304946455889852,Database
+database,2854,Rolling Average Steps,Medium,0.6929144755051204,Database
+database,2893,Calculate Orders Within Each Interval,Medium,0.6733558178752108,Database
+database,2922,Market Analysis III,Medium,0.4173598949211909,Database
+database,2978,Symmetric Coordinates,Medium,0.40537876654463534,Database
+database,2984,Find Peak Calling Hours for Each City,Medium,0.6152817254639692,Database
+database,2985,Calculate Compressed Mean,Easy,0.8678653909600791,Database
+database,2986,Find Third Transaction,Medium,0.5350110835832572,Database
+database,2987,Find Expensive Cities,Easy,0.7725389341334477,Database
+database,2988,Manager of the Largest Department,Medium,0.8059757236227825,Database
+database,2989,Class Performance,Medium,0.889476213358962,Database
+database,2990,Loan Types,Easy,0.6369504730105732,Database
+database,2991,Top Three Wineries ,Hard,0.5414338176592687,Database
+database,2993,Friday Purchases I,Medium,0.8062461475241421,Database
+database,2994,Friday Purchases II ,Hard,0.7400060114217013,Database
+database,2995,Viewers Turned Streamers,Hard,0.42643080124869925,Database
+database,3050,Pizza Toppings Cost Analysis,Medium,0.6788709347514829,Database
+database,3051,Find Candidates for Data Scientist Position,Easy,0.7534993369677323,Database
+database,3052,Maximize Items,Hard,0.7414463452566096,Database
+database,3053,Classifying Triangles by Lengths,Easy,0.5042468856172141,Database
+database,3054,Binary Tree Nodes,Medium,0.7852626989317638,Database
+database,3055,Top Percentile Fraud,Medium,0.5784872671987837,Database
+database,3056,Snaps Analysis,Medium,0.5842939481268011,Database
+database,3057,Employees Project Allocation,Hard,0.6715116279069767,Database
+database,3058,Friends With No Mutual Friends,Medium,0.48534423994546694,Database
+database,3059,Find All Unique Email Domains,Easy,0.6970230755680817,Database
+database,3060,User Activities within Time Bounds,Hard,0.4075506445672192,Database
+database,3061,Calculate Trapping Rain Water,Hard,0.8160569105691057,Database
+database,3087,Find Trending Hashtags,Medium,0.6080283353010626,Database
+database,3089,Find Bursty Behavior,Medium,0.3742824339839265,Database
+database,3103,Find Trending Hashtags II ,Hard,0.6677046263345195,Database
+database,3118,Friday Purchase III ,Medium,0.547747306562194,Database
+database,3124,Find Longest Calls,Medium,0.6310432569974554,Database
+database,3126,Server Utilization Time,Medium,0.6150245728996021,Database
+database,3140,Consecutive Available Seats II,Medium,0.5513251998317207,Database
+database,3150,Invalid Tweets II,Easy,0.8470969234328013,Database
+database,3156,Employee Task Duration and Concurrent Tasks,Hard,0.3893129770992366,Database
+database,3166,Calculate Parking Fees and Duration,Medium,0.5262600592969081,Database
+database,3172,Second Day Verification,Easy,0.6650532429816071,Database
+database,3182,Find Top Scoring Students,Medium,0.496028880866426,Database
+database,3188,Find Top Scoring Students II,Hard,0.3984976525821596,Database
+database,3198,Find Cities in Each State,Easy,0.8022379538707467,Database
+database,3204,Bitwise User Permissions Analysis,Medium,0.9358974358974359,Database
+database,3214,Year on Year Growth Rate,Hard,0.5081263416130022,Database
+database,3220,Odd and Even Transactions,Medium,0.6824168549841357,Database
+database,3230,Customer Purchasing Behavior Analysis,Medium,0.3634252936356187,Database
+database,3236,CEO Subordinate Hierarchy,Hard,0.7277892561983471,Database
+database,3246,Premier League Table Ranking,Easy,0.794235766595795,Database
+database,3252,Premier League Table Ranking II,Medium,0.5585585585585585,Database
+database,3262,Find Overlapping Shifts,Medium,0.5796045785639958,Database
+database,3268,Find Overlapping Shifts II,Hard,0.5626523647001462,Database
+database,3278,Find Candidates for Data Scientist Position II,Medium,0.4281391830559758,Database
+database,3293,Calculate Product Final Price,Medium,0.7955596669750231,Database
+database,3308,Find Top Performing Driver,Medium,0.4905223251895535,Database
+database,3322,Premier League Table Ranking III,Medium,0.7043906131718394,Database
+database,3328,Find Cities in Each State II,Medium,0.6883070301291248,Database
+database,3338,Second Highest Salary II,Medium,0.8671824629271437,Database
+database,3358,Books with NULL Ratings,Easy,0.8343981599795554,Database
+database,3368,First Letter Capitalization,Hard,0.864406779661017,Database
+database,3374,First Letter Capitalization II,Hard,0.5931282630167913,Database
+database,3384,Team Dominance by Pass Success,Hard,0.7240437158469946,Database
+database,3390,Longest Team Pass Streak,Hard,0.3999068901303538,Database
+database,3401,Find Circular Gift Exchange Chains,Hard,0.5150478796169631,Database
+database,3415,Find Products with Three Consecutive Digits ,Easy,0.8182230281051676,Database
+database,3421,Find Students Who Improved,Medium,0.47875088048837755,Database
+database,3436,Find Valid Emails,Easy,0.45072825888232065,Database
+database,3451,Find Invalid IP Addresses,Hard,0.5251977140218207,Database
+database,3465,Find Products with Valid Serial Numbers,Easy,0.3314809841551842,Database
+database,3475,DNA Pattern Recognition ,Medium,0.8538207547169812,Database
+database,3482,Analyze Organization Hierarchy,Hard,0.5978670012547052,Database
+database,3497,Analyze Subscription Conversion ,Medium,0.7445859036618979,Database
+database,3521,Find Product Recommendation Pairs,Medium,0.6161124480420039,Database
+database,3554,Find Category Recommendation Pairs,Hard,0.6375495813133539,Database
+database,3564,Seasonal Sales Analysis,Medium,0.614611380362592,Database
+database,3570,Find Books with No Available Copies,Easy,0.5346710693421387,Database
+database,3580,Find Consistently Improving Employees,Medium,0.5602067183462532,Database
+database,3586,Find COVID Recovery Patients,Medium,0.4108191221694157,Database
+database,3601,Find Drivers with Improved Fuel Efficiency,Medium,0.47453322350356947,Database
+database,3611,Find Overbooked Employees,Medium,0.44791197477639794,Database

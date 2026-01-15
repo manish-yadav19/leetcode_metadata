@@ -1,0 +1,6 @@
+favoriteSlug,question_number,title,difficulty,ac_rate,topics,paidOnly,status,titleSlug
+oracle-thirty-days,3,Longest Substring Without Repeating Characters,Medium,0.38177849364599,Hash Table;Sliding Window;String,False,TO_DO,longest-substring-without-repeating-characters
+oracle-thirty-days,102,Binary Tree Level Order Traversal,Medium,0.7189967552878577,Binary Tree;Breadth-First Search;Tree,False,TO_DO,binary-tree-level-order-traversal
+oracle-thirty-days,146,LRU Cache,Medium,0.46558068842474865,Design;Doubly-Linked List;Hash Table;Linked List,False,TO_DO,lru-cache
+oracle-thirty-days,155,Min Stack,Medium,0.5749025520743547,Design;Stack,False,TO_DO,min-stack
+oracle-thirty-days,460,LFU Cache,Hard,0.48221538227487715,Design;Doubly-Linked List;Hash Table;Linked List,False,TO_DO,lfu-cache

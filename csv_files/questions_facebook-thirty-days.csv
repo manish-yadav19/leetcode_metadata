@@ -1,0 +1,72 @@
+favoriteSlug,question_number,title,difficulty,ac_rate,topics,paidOnly,status,titleSlug
+facebook-thirty-days,1,Two Sum,Easy,0.568056531235754,Array;Hash Table,False,SOLVED,two-sum
+facebook-thirty-days,2,Add Two Numbers,Medium,0.4761617396504773,Linked List;Math;Recursion,False,TO_DO,add-two-numbers
+facebook-thirty-days,4,Median of Two Sorted Arrays,Hard,0.4553989306506221,Array;Binary Search;Divide and Conquer,False,TO_DO,median-of-two-sorted-arrays
+facebook-thirty-days,5,Longest Palindromic Substring,Medium,0.37021008227524965,Dynamic Programming;String;Two Pointers,False,TO_DO,longest-palindromic-substring
+facebook-thirty-days,11,Container With Most Water,Medium,0.5923443452298143,Array;Greedy;Two Pointers,False,TO_DO,container-with-most-water
+facebook-thirty-days,14,Longest Common Prefix,Easy,0.4679347076041711,Array;String;Trie,False,TO_DO,longest-common-prefix
+facebook-thirty-days,20,Valid Parentheses,Easy,0.4343634878959552,Stack;String,False,TO_DO,valid-parentheses
+facebook-thirty-days,22,Generate Parentheses,Medium,0.7806139445835568,Backtracking;Dynamic Programming;String,False,TO_DO,generate-parentheses
+facebook-thirty-days,23,Merge k Sorted Lists,Hard,0.5849404218164094,Divide and Conquer;Heap (Priority Queue);Linked List;Merge Sort,False,TO_DO,merge-k-sorted-lists
+facebook-thirty-days,33,Search in Rotated Sorted Array,Medium,0.4386655038845181,Array;Binary Search,False,TO_DO,search-in-rotated-sorted-array
+facebook-thirty-days,39,Combination Sum,Medium,0.7583013509076472,Array;Backtracking,False,TO_DO,combination-sum
+facebook-thirty-days,42,Trapping Rain Water,Hard,0.6647107168861689,Array;Dynamic Programming;Monotonic Stack;Stack;Two Pointers,False,TO_DO,trapping-rain-water
+facebook-thirty-days,54,Spiral Matrix,Medium,0.5575495846048216,Array;Matrix;Simulation,False,TO_DO,spiral-matrix
+facebook-thirty-days,56,Merge Intervals,Medium,0.50805233983285,Array;Sorting,False,TO_DO,merge-intervals
+facebook-thirty-days,58,Length of Last Word,Easy,0.5792404708673135,String,False,TO_DO,length-of-last-word
+facebook-thirty-days,66,Plus One,Easy,0.4925173240177372,Array;Math,False,TO_DO,plus-one
+facebook-thirty-days,70,Climbing Stairs,Easy,0.5383231088695591,Dynamic Programming;Math;Memoization,False,TO_DO,climbing-stairs
+facebook-thirty-days,71,Simplify Path,Medium,0.4967823386985535,Stack;String,False,TO_DO,simplify-path
+facebook-thirty-days,116,Populating Next Right Pointers in Each Node,Medium,0.6661735730590089,Binary Tree;Breadth-First Search;Depth-First Search;Linked List;Tree,False,TO_DO,populating-next-right-pointers-in-each-node
+facebook-thirty-days,121,Best Time to Buy and Sell Stock,Easy,0.5617529645282888,Array;Dynamic Programming,False,TO_DO,best-time-to-buy-and-sell-stock
+facebook-thirty-days,125,Valid Palindrome,Easy,0.5243149849623824,String;Two Pointers,False,TO_DO,valid-palindrome
+facebook-thirty-days,135,Candy,Hard,0.4771175980309485,Array;Greedy,False,TO_DO,candy
+facebook-thirty-days,136,Single Number,Easy,0.770837844315187,Array;Bit Manipulation,False,TO_DO,single-number
+facebook-thirty-days,138,Copy List with Random Pointer,Medium,0.6209206186111498,Hash Table;Linked List,False,TO_DO,copy-list-with-random-pointer
+facebook-thirty-days,146,LRU Cache,Medium,0.46558068842474865,Design;Doubly-Linked List;Hash Table;Linked List,False,TO_DO,lru-cache
+facebook-thirty-days,155,Min Stack,Medium,0.5749025520743547,Design;Stack,False,TO_DO,min-stack
+facebook-thirty-days,162,Find Peak Element,Medium,0.467464722714843,Array;Binary Search,False,TO_DO,find-peak-element
+facebook-thirty-days,169,Majority Element,Easy,0.6602996214131726,Array;Counting;Divide and Conquer;Hash Table;Sorting,False,TO_DO,majority-element
+facebook-thirty-days,199,Binary Tree Right Side View,Medium,0.6907226871897771,Binary Tree;Breadth-First Search;Depth-First Search;Tree,False,TO_DO,binary-tree-right-side-view
+facebook-thirty-days,207,Course Schedule,Medium,0.5053542594670845,Breadth-First Search;Depth-First Search;Graph;Topological Sort,False,TO_DO,course-schedule
+facebook-thirty-days,215,Kth Largest Element in an Array,Medium,0.6866642768243022,Array;Divide and Conquer;Heap (Priority Queue);Quickselect;Sorting,False,TO_DO,kth-largest-element-in-an-array
+facebook-thirty-days,217,Contains Duplicate,Easy,0.6391269078945955,Array;Hash Table;Sorting,False,TO_DO,contains-duplicate
+facebook-thirty-days,227,Basic Calculator II,Medium,0.4652228475137846,Math;Stack;String,False,TO_DO,basic-calculator-ii
+facebook-thirty-days,237,Delete Node in a Linked List,Medium,0.8337404762902787,Linked List,False,TO_DO,delete-node-in-a-linked-list
+facebook-thirty-days,242,Valid Anagram,Easy,0.6756558566953315,Hash Table;Sorting;String,False,SOLVED,valid-anagram
+facebook-thirty-days,249,Group Shifted Strings,Medium,0.6768642987922884,Array;Hash Table;String,True,TO_DO,group-shifted-strings
+facebook-thirty-days,269,Alien Dictionary,Hard,0.3699566467436592,Array;Breadth-First Search;Depth-First Search;Graph;String;Topological Sort,True,TO_DO,alien-dictionary
+facebook-thirty-days,283,Move Zeroes,Easy,0.6336668288855349,Array;Two Pointers,False,TO_DO,move-zeroes
+facebook-thirty-days,314,Binary Tree Vertical Order Traversal,Medium,0.5768877213438871,Binary Tree;Breadth-First Search;Depth-First Search;Hash Table;Sorting;Tree,True,TO_DO,binary-tree-vertical-order-traversal
+facebook-thirty-days,329,Longest Increasing Path in a Matrix,Hard,0.5615746239395597,Array;Breadth-First Search;Depth-First Search;Dynamic Programming;Graph;Matrix;Memoization;Topological Sort,False,TO_DO,longest-increasing-path-in-a-matrix
+facebook-thirty-days,339,Nested List Weight Sum,Medium,0.858738729603434,Breadth-First Search;Depth-First Search,True,TO_DO,nested-list-weight-sum
+facebook-thirty-days,345,Reverse Vowels of a String,Easy,0.602011928258991,String;Two Pointers,False,TO_DO,reverse-vowels-of-a-string
+facebook-thirty-days,347,Top K Frequent Elements,Medium,0.6553125163905468,Array;Bucket Sort;Counting;Divide and Conquer;Hash Table;Heap (Priority Queue);Quickselect;Sorting,False,TO_DO,top-k-frequent-elements
+facebook-thirty-days,349,Intersection of Two Arrays,Easy,0.7728342075840285,Array;Binary Search;Hash Table;Sorting;Two Pointers,False,TO_DO,intersection-of-two-arrays
+facebook-thirty-days,408,Valid Word Abbreviation,Easy,0.3699715885483231,String;Two Pointers,True,TO_DO,valid-word-abbreviation
+facebook-thirty-days,419,Battleships in a Board,Medium,0.7721565033082233,Array;Depth-First Search;Matrix,False,TO_DO,battleships-in-a-board
+facebook-thirty-days,424,Longest Repeating Character Replacement,Medium,0.5870080690901347,Hash Table;Sliding Window;String,False,TO_DO,longest-repeating-character-replacement
+facebook-thirty-days,485,Max Consecutive Ones,Easy,0.6420257408656914,Array,False,TO_DO,max-consecutive-ones
+facebook-thirty-days,489,Robot Room Cleaner,Hard,0.7784217666566174,Backtracking;Interactive,True,TO_DO,robot-room-cleaner
+facebook-thirty-days,518,Coin Change II,Medium,0.606932127199426,Array;Dynamic Programming,False,TO_DO,coin-change-ii
+facebook-thirty-days,528,Random Pick with Weight,Medium,0.48824150394451343,Array;Binary Search;Math;Prefix Sum;Randomized,False,TO_DO,random-pick-with-weight
+facebook-thirty-days,529,Minesweeper,Medium,0.6858820132807237,Array;Breadth-First Search;Depth-First Search;Matrix,False,TO_DO,minesweeper
+facebook-thirty-days,540,Single Element in a Sorted Array,Medium,0.5918673586842954,Array;Binary Search,False,TO_DO,single-element-in-a-sorted-array
+facebook-thirty-days,543,Diameter of Binary Tree,Easy,0.6479099113895666,Binary Tree;Depth-First Search;Tree,False,TO_DO,diameter-of-binary-tree
+facebook-thirty-days,545,Boundary of Binary Tree,Medium,0.4774112479559753,Binary Tree;Depth-First Search;Tree,True,TO_DO,boundary-of-binary-tree
+facebook-thirty-days,560,Subarray Sum Equals K,Medium,0.4651201596097784,Array;Hash Table;Prefix Sum,False,TO_DO,subarray-sum-equals-k
+facebook-thirty-days,636,Exclusive Time of Functions,Medium,0.6592406307830754,Array;Stack,False,TO_DO,exclusive-time-of-functions
+facebook-thirty-days,670,Maximum Swap,Medium,0.5192371559505682,Greedy;Math,False,TO_DO,maximum-swap
+facebook-thirty-days,680,Valid Palindrome II,Easy,0.4380162583354184,Greedy;String;Two Pointers,False,TO_DO,valid-palindrome-ii
+facebook-thirty-days,825,Friends Of Appropriate Ages,Medium,0.49708324917725055,Array;Binary Search;Sorting;Two Pointers,False,TO_DO,friends-of-appropriate-ages
+facebook-thirty-days,827,Making A Large Island,Hard,0.5607762795410204,Array;Breadth-First Search;Depth-First Search;Matrix;Union Find,False,TO_DO,making-a-large-island
+facebook-thirty-days,832,Flipping an Image,Easy,0.8344875378541274,Array;Bit Manipulation;Matrix;Simulation;Two Pointers,False,TO_DO,flipping-an-image
+facebook-thirty-days,843,Guess the Word,Hard,0.3702293651643293,Array;Game Theory;Interactive;Math;String,False,TO_DO,guess-the-word
+facebook-thirty-days,938,Range Sum of BST,Easy,0.8754974997448719,Binary Search Tree;Binary Tree;Depth-First Search;Tree,False,TO_DO,range-sum-of-bst
+facebook-thirty-days,973,K Closest Points to Origin,Medium,0.6859848704543006,Array;Divide and Conquer;Geometry;Heap (Priority Queue);Math;Quickselect;Sorting,False,TO_DO,k-closest-points-to-origin
+facebook-thirty-days,986,Interval List Intersections,Medium,0.7288285505329329,Array;Line Sweep;Two Pointers,False,TO_DO,interval-list-intersections
+facebook-thirty-days,1249,Minimum Remove to Make Valid Parentheses,Medium,0.711799233457568,Stack;String,False,TO_DO,minimum-remove-to-make-valid-parentheses
+facebook-thirty-days,1339,Maximum Product of Splitted Binary Tree,Medium,0.55499385807427,Binary Tree;Depth-First Search;Tree,False,TO_DO,maximum-product-of-splitted-binary-tree
+facebook-thirty-days,1458,Max Dot Product of Two Subsequences,Hard,0.6930589874811163,Array;Dynamic Programming,False,TO_DO,max-dot-product-of-two-subsequences
+facebook-thirty-days,1743,Restore the Array From Adjacent Pairs,Medium,0.7503474964944187,Array;Depth-First Search;Hash Table,False,TO_DO,restore-the-array-from-adjacent-pairs
+facebook-thirty-days,1929,Concatenation of Array,Easy,0.9065518683527245,Array;Simulation,False,TO_DO,concatenation-of-array

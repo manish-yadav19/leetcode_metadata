@@ -1,0 +1,50 @@
+favoriteSlug,question_number,title,difficulty,ac_rate,topics,paidOnly,status,titleSlug
+bloomberg-thirty-days,1,Two Sum,Easy,0.568056531235754,Array;Hash Table,False,SOLVED,two-sum
+bloomberg-thirty-days,2,Add Two Numbers,Medium,0.4761617396504773,Linked List;Math;Recursion,False,TO_DO,add-two-numbers
+bloomberg-thirty-days,3,Longest Substring Without Repeating Characters,Medium,0.38177849364599,Hash Table;Sliding Window;String,False,TO_DO,longest-substring-without-repeating-characters
+bloomberg-thirty-days,4,Median of Two Sorted Arrays,Hard,0.4553989306506221,Array;Binary Search;Divide and Conquer,False,TO_DO,median-of-two-sorted-arrays
+bloomberg-thirty-days,5,Longest Palindromic Substring,Medium,0.37021008227524965,Dynamic Programming;String;Two Pointers,False,TO_DO,longest-palindromic-substring
+bloomberg-thirty-days,7,Reverse Integer,Medium,0.3127606321855442,Math,False,TO_DO,reverse-integer
+bloomberg-thirty-days,9,Palindrome Number,Easy,0.600671729163301,Math,False,TO_DO,palindrome-number
+bloomberg-thirty-days,11,Container With Most Water,Medium,0.5923443452298143,Array;Greedy;Two Pointers,False,TO_DO,container-with-most-water
+bloomberg-thirty-days,15,3Sum,Medium,0.38281285147119076,Array;Sorting;Two Pointers,False,TO_DO,3sum
+bloomberg-thirty-days,20,Valid Parentheses,Easy,0.4343634878959552,Stack;String,False,TO_DO,valid-parentheses
+bloomberg-thirty-days,27,Remove Element,Easy,0.6109493246047186,Array;Two Pointers,False,TO_DO,remove-element
+bloomberg-thirty-days,36,Valid Sudoku,Medium,0.6394398965191345,Array;Hash Table;Matrix,False,TO_DO,valid-sudoku
+bloomberg-thirty-days,49,Group Anagrams,Medium,0.719405075423735,Array;Hash Table;Sorting;String,False,TO_DO,group-anagrams
+bloomberg-thirty-days,53,Maximum Subarray,Medium,0.5279774128497923,Array;Divide and Conquer;Dynamic Programming,False,SOLVED,maximum-subarray
+bloomberg-thirty-days,56,Merge Intervals,Medium,0.50805233983285,Array;Sorting,False,TO_DO,merge-intervals
+bloomberg-thirty-days,61,Rotate List,Medium,0.4095545088948828,Linked List;Two Pointers,False,TO_DO,rotate-list
+bloomberg-thirty-days,66,Plus One,Easy,0.4925173240177372,Array;Math,False,TO_DO,plus-one
+bloomberg-thirty-days,78,Subsets,Medium,0.818401545737851,Array;Backtracking;Bit Manipulation,False,TO_DO,subsets
+bloomberg-thirty-days,79,Word Search,Medium,0.46562910274979785,Array;Backtracking;Depth-First Search;Matrix;String,False,TO_DO,word-search
+bloomberg-thirty-days,88,Merge Sorted Array,Easy,0.5408924239342485,Array;Sorting;Two Pointers,False,TO_DO,merge-sorted-array
+bloomberg-thirty-days,128,Longest Consecutive Sequence,Medium,0.46966330370880216,Array;Hash Table;Union Find,False,TO_DO,longest-consecutive-sequence
+bloomberg-thirty-days,140,Word Break II,Hard,0.5485067649114769,Array;Backtracking;Dynamic Programming;Hash Table;Memoization;String;Trie,False,TO_DO,word-break-ii
+bloomberg-thirty-days,152,Maximum Product Subarray,Medium,0.357917810939316,Array;Dynamic Programming,False,TO_DO,maximum-product-subarray
+bloomberg-thirty-days,155,Min Stack,Medium,0.5749025520743547,Design;Stack,False,TO_DO,min-stack
+bloomberg-thirty-days,175,Combine Two Tables,Easy,0.7899141960820947,Database,False,SOLVED,combine-two-tables
+bloomberg-thirty-days,190,Reverse Bits,Easy,0.6543976670969743,Bit Manipulation;Divide and Conquer,False,TO_DO,reverse-bits
+bloomberg-thirty-days,197,Rising Temperature,Easy,0.5090811552469,Database,False,SOLVED,rising-temperature
+bloomberg-thirty-days,200,Number of Islands,Medium,0.635385230304513,Array;Breadth-First Search;Depth-First Search;Matrix;Union Find,False,TO_DO,number-of-islands
+bloomberg-thirty-days,219,Contains Duplicate II,Easy,0.504255644731496,Array;Hash Table;Sliding Window,False,TO_DO,contains-duplicate-ii
+bloomberg-thirty-days,238,Product of Array Except Self,Medium,0.6840879451051396,Array;Prefix Sum,False,TO_DO,product-of-array-except-self
+bloomberg-thirty-days,242,Valid Anagram,Easy,0.6756558566953315,Hash Table;Sorting;String,False,SOLVED,valid-anagram
+bloomberg-thirty-days,322,Coin Change,Medium,0.4771847644229999,Array;Breadth-First Search;Dynamic Programming,False,TO_DO,coin-change
+bloomberg-thirty-days,347,Top K Frequent Elements,Medium,0.6553125163905468,Array;Bucket Sort;Counting;Divide and Conquer;Hash Table;Heap (Priority Queue);Quickselect;Sorting,False,TO_DO,top-k-frequent-elements
+bloomberg-thirty-days,380,Insert Delete GetRandom O(1),Medium,0.5520878485156935,Array;Design;Hash Table;Math;Randomized,False,TO_DO,insert-delete-getrandom-o1
+bloomberg-thirty-days,394,Decode String,Medium,0.6206463639025712,Recursion;Stack;String,False,TO_DO,decode-string
+bloomberg-thirty-days,399,Evaluate Division,Medium,0.6386108125161761,Array;Breadth-First Search;Depth-First Search;Graph;Shortest Path;String;Union Find,False,TO_DO,evaluate-division
+bloomberg-thirty-days,415,Add Strings,Easy,0.5206725819893132,Math;Simulation;String,False,TO_DO,add-strings
+bloomberg-thirty-days,430,Flatten a Multilevel Doubly Linked List,Medium,0.6233504822097169,Depth-First Search;Doubly-Linked List;Linked List,False,TO_DO,flatten-a-multilevel-doubly-linked-list
+bloomberg-thirty-days,445,Add Two Numbers II,Medium,0.6225323952778037,Linked List;Math;Stack,False,TO_DO,add-two-numbers-ii
+bloomberg-thirty-days,485,Max Consecutive Ones,Easy,0.6420257408656914,Array,False,TO_DO,max-consecutive-ones
+bloomberg-thirty-days,560,Subarray Sum Equals K,Medium,0.4651201596097784,Array;Hash Table;Prefix Sum,False,TO_DO,subarray-sum-equals-k
+bloomberg-thirty-days,643,Maximum Average Subarray I,Easy,0.4666330816667882,Array;Sliding Window,False,TO_DO,maximum-average-subarray-i
+bloomberg-thirty-days,676,Implement Magic Dictionary,Medium,0.5752855139250651,Depth-First Search;Design;Hash Table;String;Trie,False,TO_DO,implement-magic-dictionary
+bloomberg-thirty-days,840,Magic Squares In Grid,Medium,0.5512687041437824,Array;Hash Table;Math;Matrix,False,TO_DO,magic-squares-in-grid
+bloomberg-thirty-days,875,Koko Eating Bananas,Medium,0.4949577782573378,Array;Binary Search,False,TO_DO,koko-eating-bananas
+bloomberg-thirty-days,1169,Invalid Transactions,Medium,0.318591244820753,Array;Hash Table;Sorting;String,False,TO_DO,invalid-transactions
+bloomberg-thirty-days,1274,Number of Ships in a Rectangle,Hard,0.6883414964034674,Array;Divide and Conquer;Interactive,True,TO_DO,number-of-ships-in-a-rectangle
+bloomberg-thirty-days,2423,Remove Letter To Equalize Frequency,Easy,0.19065178419544368,Counting;Hash Table;String,False,TO_DO,remove-letter-to-equalize-frequency
+bloomberg-thirty-days,3776,Minimum Moves to Balance Circular Array,Medium,0.39687285865570293,Array;Greedy;Sorting,False,TO_DO,minimum-moves-to-balance-circular-array

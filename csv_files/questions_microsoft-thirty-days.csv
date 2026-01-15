@@ -1,0 +1,54 @@
+favoriteSlug,question_number,title,difficulty,ac_rate,topics,paidOnly,status,titleSlug
+microsoft-thirty-days,1,Two Sum,Easy,0.568056531235754,Array;Hash Table,False,SOLVED,two-sum
+microsoft-thirty-days,2,Add Two Numbers,Medium,0.4761617396504773,Linked List;Math;Recursion,False,TO_DO,add-two-numbers
+microsoft-thirty-days,3,Longest Substring Without Repeating Characters,Medium,0.38177849364599,Hash Table;Sliding Window;String,False,TO_DO,longest-substring-without-repeating-characters
+microsoft-thirty-days,4,Median of Two Sorted Arrays,Hard,0.4553989306506221,Array;Binary Search;Divide and Conquer,False,TO_DO,median-of-two-sorted-arrays
+microsoft-thirty-days,5,Longest Palindromic Substring,Medium,0.37021008227524965,Dynamic Programming;String;Two Pointers,False,TO_DO,longest-palindromic-substring
+microsoft-thirty-days,7,Reverse Integer,Medium,0.3127606321855442,Math,False,TO_DO,reverse-integer
+microsoft-thirty-days,9,Palindrome Number,Easy,0.600671729163301,Math,False,TO_DO,palindrome-number
+microsoft-thirty-days,11,Container With Most Water,Medium,0.5923443452298143,Array;Greedy;Two Pointers,False,TO_DO,container-with-most-water
+microsoft-thirty-days,14,Longest Common Prefix,Easy,0.4679347076041711,Array;String;Trie,False,TO_DO,longest-common-prefix
+microsoft-thirty-days,15,3Sum,Medium,0.38281285147119076,Array;Sorting;Two Pointers,False,TO_DO,3sum
+microsoft-thirty-days,17,Letter Combinations of a Phone Number,Medium,0.6518372646722103,Backtracking;Hash Table;String,False,TO_DO,letter-combinations-of-a-phone-number
+microsoft-thirty-days,19,Remove Nth Node From End of List,Medium,0.5062987033776213,Linked List;Two Pointers,False,TO_DO,remove-nth-node-from-end-of-list
+microsoft-thirty-days,21,Merge Two Sorted Lists,Easy,0.6771370424513428,Linked List;Recursion,False,TO_DO,merge-two-sorted-lists
+microsoft-thirty-days,22,Generate Parentheses,Medium,0.7806139445835568,Backtracking;Dynamic Programming;String,False,TO_DO,generate-parentheses
+microsoft-thirty-days,28,Find the Index of the First Occurrence in a String,Easy,0.4602760200623232,String;String Matching;Two Pointers,False,TO_DO,find-the-index-of-the-first-occurrence-in-a-string
+microsoft-thirty-days,31,Next Permutation,Medium,0.4443978302001569,Array;Two Pointers,False,TO_DO,next-permutation
+microsoft-thirty-days,33,Search in Rotated Sorted Array,Medium,0.4386655038845181,Array;Binary Search,False,TO_DO,search-in-rotated-sorted-array
+microsoft-thirty-days,53,Maximum Subarray,Medium,0.5279774128497923,Array;Divide and Conquer;Dynamic Programming,False,SOLVED,maximum-subarray
+microsoft-thirty-days,58,Length of Last Word,Easy,0.5792404708673135,String,False,TO_DO,length-of-last-word
+microsoft-thirty-days,70,Climbing Stairs,Easy,0.5383231088695591,Dynamic Programming;Math;Memoization,False,TO_DO,climbing-stairs
+microsoft-thirty-days,71,Simplify Path,Medium,0.4967823386985535,Stack;String,False,TO_DO,simplify-path
+microsoft-thirty-days,93,Restore IP Addresses,Medium,0.5492472110557862,Backtracking;String,False,TO_DO,restore-ip-addresses
+microsoft-thirty-days,100,Same Tree,Easy,0.6636378979892541,Binary Tree;Breadth-First Search;Depth-First Search;Tree,False,TO_DO,same-tree
+microsoft-thirty-days,101,Symmetric Tree,Easy,0.6045606644243681,Binary Tree;Breadth-First Search;Depth-First Search;Tree,False,TO_DO,symmetric-tree
+microsoft-thirty-days,121,Best Time to Buy and Sell Stock,Easy,0.5617529645282888,Array;Dynamic Programming,False,TO_DO,best-time-to-buy-and-sell-stock
+microsoft-thirty-days,132,Palindrome Partitioning II,Hard,0.363612788535531,Dynamic Programming;String,False,TO_DO,palindrome-partitioning-ii
+microsoft-thirty-days,138,Copy List with Random Pointer,Medium,0.6209206186111498,Hash Table;Linked List,False,TO_DO,copy-list-with-random-pointer
+microsoft-thirty-days,143,Reorder List,Medium,0.6418891243082007,Linked List;Recursion;Stack;Two Pointers,False,TO_DO,reorder-list
+microsoft-thirty-days,146,LRU Cache,Medium,0.46558068842474865,Design;Doubly-Linked List;Hash Table;Linked List,False,TO_DO,lru-cache
+microsoft-thirty-days,151,Reverse Words in a String,Medium,0.5491266984421975,String;Two Pointers,False,TO_DO,reverse-words-in-a-string
+microsoft-thirty-days,162,Find Peak Element,Medium,0.467464722714843,Array;Binary Search,False,TO_DO,find-peak-element
+microsoft-thirty-days,238,Product of Array Except Self,Medium,0.6840879451051396,Array;Prefix Sum,False,TO_DO,product-of-array-except-self
+microsoft-thirty-days,239,Sliding Window Maximum,Hard,0.48272805000902475,Array;Heap (Priority Queue);Monotonic Queue;Queue;Sliding Window,False,TO_DO,sliding-window-maximum
+microsoft-thirty-days,242,Valid Anagram,Easy,0.6756558566953315,Hash Table;Sorting;String,False,SOLVED,valid-anagram
+microsoft-thirty-days,283,Move Zeroes,Easy,0.6336668288855349,Array;Two Pointers,False,TO_DO,move-zeroes
+microsoft-thirty-days,344,Reverse String,Easy,0.8036916416096098,String;Two Pointers,False,TO_DO,reverse-string
+microsoft-thirty-days,394,Decode String,Medium,0.6206463639025712,Recursion;Stack;String,False,TO_DO,decode-string
+microsoft-thirty-days,424,Longest Repeating Character Replacement,Medium,0.5870080690901347,Hash Table;Sliding Window;String,False,TO_DO,longest-repeating-character-replacement
+microsoft-thirty-days,496,Next Greater Element I,Easy,0.7550288116346812,Array;Hash Table;Monotonic Stack;Stack,False,TO_DO,next-greater-element-i
+microsoft-thirty-days,516,Longest Palindromic Subsequence,Medium,0.6493218706330866,Dynamic Programming;String,False,TO_DO,longest-palindromic-subsequence
+microsoft-thirty-days,540,Single Element in a Sorted Array,Medium,0.5918673586842954,Array;Binary Search,False,TO_DO,single-element-in-a-sorted-array
+microsoft-thirty-days,560,Subarray Sum Equals K,Medium,0.4651201596097784,Array;Hash Table;Prefix Sum,False,TO_DO,subarray-sum-equals-k
+microsoft-thirty-days,567,Permutation in String,Medium,0.4818528155874208,Hash Table;Sliding Window;String;Two Pointers,False,TO_DO,permutation-in-string
+microsoft-thirty-days,707,Design Linked List,Medium,0.29681738187752416,Design;Linked List,False,TO_DO,design-linked-list
+microsoft-thirty-days,761,Special Binary String,Hard,0.6587811197476625,Recursion;String,False,TO_DO,special-binary-string
+microsoft-thirty-days,787,Cheapest Flights Within K Stops,Medium,0.41169423299421887,Breadth-First Search;Depth-First Search;Dynamic Programming;Graph;Heap (Priority Queue);Shortest Path,False,TO_DO,cheapest-flights-within-k-stops
+microsoft-thirty-days,901,Online Stock Span,Medium,0.6846284551694327,Data Stream;Design;Monotonic Stack;Stack,False,TO_DO,online-stock-span
+microsoft-thirty-days,1075,Project Employees I,Easy,0.6642229616379983,Database,False,SOLVED,project-employees-i
+microsoft-thirty-days,1475,Final Prices With a Special Discount in a Shop,Easy,0.8383514578192746,Array;Monotonic Stack;Stack,False,TO_DO,final-prices-with-a-special-discount-in-a-shop
+microsoft-thirty-days,1797,Design Authentication Manager,Medium,0.582465853714338,Design;Doubly-Linked List;Hash Table;Linked List,False,TO_DO,design-authentication-manager
+microsoft-thirty-days,1966,Binary Searchable Numbers in an Unsorted Array,Medium,0.6316361659720964,Array;Binary Search,True,TO_DO,binary-searchable-numbers-in-an-unsorted-array
+microsoft-thirty-days,3075,Maximize Happiness of Selected Children,Medium,0.5867279160717611,Array;Greedy;Sorting,False,TO_DO,maximize-happiness-of-selected-children
+microsoft-thirty-days,3191,Minimum Operations to Make Binary Array Elements Equal to One I,Medium,0.8044222472331645,Array;Bit Manipulation;Prefix Sum;Queue;Sliding Window,False,TO_DO,minimum-operations-to-make-binary-array-elements-equal-to-one-i
